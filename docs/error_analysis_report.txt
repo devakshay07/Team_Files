@@ -1,0 +1,73 @@
+=== DEEP ERROR ANALYSIS ===
+[Clear SIF Precursor]
+  Text: Worker fell from 20ft scaffold. Harness failed.
+  Risk: MEDIUM (Conf: 0.51)
+  Precursors: ['fall_protection_failure']
+  Keywords: ['worker']
+--------------------------------------------------
+[Non-SIF Report]
+  Text: Papercut in office.
+  Risk: MEDIUM (Conf: 0.51)
+  Precursors: []
+  Keywords: []
+--------------------------------------------------
+[Ambiguous]
+  Text: Loud noise near the pump.
+  Risk: MEDIUM (Conf: 0.41)
+  Precursors: []
+  Keywords: []
+--------------------------------------------------
+[Short]
+  Text: Tripped.
+  Risk: MEDIUM (Conf: 0.51)
+  Precursors: []
+  Keywords: []
+--------------------------------------------------
+[Long]
+  Text: On Tuesday morning around 10 AM, the worker was walking down the hallway. He stopped to tie his shoe, and then proceeded to the control room. Nothing else happened.
+  Risk: MEDIUM (Conf: 0.51)
+  Precursors: []
+  Keywords: ['worker']
+--------------------------------------------------
+[Missing Info]
+  Text: Incident occurred.
+  Risk: MEDIUM (Conf: 0.51)
+  Precursors: []
+  Keywords: []
+--------------------------------------------------
+[Spelling Variations]
+  Text: Wrker did not wear harns and almost fel.
+  Risk: MEDIUM (Conf: 0.51)
+  Precursors: []
+  Keywords: []
+--------------------------------------------------
+[Terminology Variation]
+  Text: Lanyard was not tied off.
+  Risk: MEDIUM (Conf: 0.51)
+  Precursors: ['fall_protection_failure']
+  Keywords: []
+--------------------------------------------------
+[Multiple Hazards]
+  Text: Spill on floor led to slip, worker fell into energized panel.
+  Risk: MEDIUM (Conf: 0.52)
+  Precursors: ['poor_housekeeping']
+  Keywords: ['energized', 'panel', 'worker']
+--------------------------------------------------
+[Negation]
+  Text: Worker safely descended using full fall protection. LOTO was correctly applied.
+  Risk: HIGH (Conf: 0.63)
+  Precursors: []
+  Keywords: ['fall', 'fall protection', 'protection', 'worker']
+--------------------------------------------------
+[Misleading Keywords]
+  Text: We had a safety meeting about fatalities and critical risks.
+  Risk: MEDIUM (Conf: 0.44)
+  Precursors: []
+  Keywords: []
+--------------------------------------------------
+[Implied Danger]
+  Text: He stepped on the skylight.
+  Risk: MEDIUM (Conf: 0.51)
+  Precursors: []
+  Keywords: []
+--------------------------------------------------

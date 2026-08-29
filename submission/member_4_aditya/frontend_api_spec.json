@@ -1,0 +1,94 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "SIF Precursor Analysis API",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "/analyze": {
+      "post": {
+        "summary": "Analyze safety report",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "text": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Analysis successful",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ModelPrediction"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "ModelPrediction": {
+        "type": "object",
+        "properties": {
+          "sif_precursor": {
+            "type": "boolean"
+          },
+          "confidence": {
+            "type": "number"
+          },
+          "hazard_category": {
+            "type": "string"
+          },
+          "failed_control": {
+            "type": "string"
+          },
+          "explanation": {
+            "type": "string"
+          },
+          "priority": {
+            "type": "string"
+          },
+          "evidence_keywords": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "immediate_action": {
+            "type": "string",
+            "nullable": true
+          },
+          "intervention": {
+            "type": "string",
+            "nullable": true
+          },
+          "corrective_action": {
+            "type": "string",
+            "nullable": true
+          },
+          "preventive_action": {
+            "type": "string",
+            "nullable": true
+          },
+          "work_stopped": {
+            "type": "boolean",
+            "nullable": true
+          }
+        }
+      }
+    }
+  }
+}

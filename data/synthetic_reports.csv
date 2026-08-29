@@ -1,0 +1,1028 @@
+report_id,report_text,report_type,sif_label,hazard_category,severity,unsafe_act,unsafe_condition,potential_consequence,failed_control,location,equipment,source
+2d3cca61-a67d-4b2e-9cbd-b7cd795d7828,Small oil spill near Compressor at Unit B. Cleaned up promptly.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Unit B,Compressor,synthetic
+45caa314-9cac-4f9a-827e-993f1acf9630,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+7e2043d3-2fe3-4763-9099-8e91f0196269,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Unit A,Compressor,synthetic
+c13d3981-1608-401e-a183-87c3f5cd9778,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Unit B,Heat Exchanger,synthetic
+5f6e50b9-b26e-4e13-8692-32f52c990e5a,<div><p>Small oil spill near Heat Exchanger at Refinery Sector 4. Cleaned up promptly.</p></div>,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+1f1e9bd6-9103-4aec-bb54-66dedd767467,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Unit B,Heat Exchanger,synthetic
+22ef00f8-e716-4ba1-945e-d290ee47ffde,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,LOW,,,,,Offshore Platform 1,Pump,synthetic
+08d67ead-01fa-46bb-9635-781d8adb8718,Small oil spill near Pump at Unit A. Cleaned up promptly.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit A,Pump,synthetic
+a7cd078a-d545-4e82-9366-011d59a15e82,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Unit B,Compressor,synthetic
+41138b63-c0aa-4cc5-b0eb-1987da5ad1f9,Small oil spill near Electrical Panel at Unit A. Cleaned up promptly.,Unsafe Act,NO,Electrical,LOW,,,,,Unit A,Electrical Panel,synthetic
+65f7e501-1485-4d14-be80-e0352976bc5b,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+20fce50c-a927-418e-be04-8b8ef832084e,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Pump,synthetic
+36807700-b178-4033-991d-6fd54ed726cc,<div><p>Worker used incorrect gloves for manual handling task. Supervisor corrected the action.</p></div>,Unsafe Act,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Electrical Panel,synthetic
+c186de95-87f1-4ed2-8cd4-284fcb6040cf,Small oil spill near Compressor at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Confined Space,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+2c260fb3-6fc7-437b-95ae-02ccad782abf,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Unit B,Pump,synthetic
+d7b52f04-ee6e-460f-838f-3890d695f623,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Pump,synthetic
+2180a9bc-4ae9-4135-9940-b1f52028eca6,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Unit A,Valve,synthetic
+de4e7a29-1fea-494d-9a45-c35812b10179,Small oil spill near Electrical Panel at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Manual Handling,LOW,,,,,Refinery Sector 4,Electrical Panel,synthetic
+482b5eb6-35e4-43d3-b878-f3c5f39d3a2e,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Refinery Sector 4,Pump,synthetic
+e192c4de-580f-4d73-a24f-45ed174626da,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Unit B,Valve,synthetic
+20cb63b7-10d8-49d8-b0d7-159c53d8a901,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+ffd19a02-5096-4e9e-83cc-e28902dccabd,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,LOW,,,,,Unit B,Compressor,synthetic
+5776ba01-f77f-4d2e-bd0c-40ea8284c007,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,LOW,,,,,Unit B,Compressor,synthetic
+69ce462f-1f93-4299-b45c-856eee304aa3,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Unit B,Compressor,synthetic
+74d68301-40a4-40eb-9f6a-920569566548,Small oil spill near Compressor at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Unit B,Compressor,synthetic
+ffb81b42-c028-4307-85e7-a1a5e304a25a,<div><p>Small oil spill near Electrical Panel at Unit B. Cleaned up promptly.</p></div>,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Unit B,Electrical Panel,synthetic
+ee601947-a712-4492-8067-03c85f7f9c7a,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Working at Height,LOW,,,,,Refinery Sector 4,Valve,synthetic
+cec020ed-ee57-4b7c-9957-4b9a6928f4e5,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+20a8bd56-8951-420a-9f53-b6638f59fefe,Small oil spill near Valve at Unit A. Cleaned up promptly.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit A,Valve,synthetic
+08fdac04-0723-418b-8b14-491fab35f4db,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Unit A,Pump,synthetic
+f1472069-270a-43e3-9822-f47b19a621ff,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+2365fc94-6100-4444-9a00-9563c033c6c8,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Pressure,LOW,,,,,Unit B,Compressor,synthetic
+2b0b9d8b-e3a1-4242-b4ff-ebac4ffdab3b,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+3ffbd9c5-9dc4-45c5-a2d7-6334de212faf,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Working at Height,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+4d19e488-7325-49d0-9386-7700a210dd94,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+706f47bc-56bd-4895-9aef-9086afa30cf8,Small oil spill near Valve at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Unit A,Valve,synthetic
+571b63aa-497b-4bdc-b558-0fe17e60b62e,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit B,Heat Exchanger,synthetic
+efb22afb-e87c-454d-a97b-e9934617ec35,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Unit B,Electrical Panel,synthetic
+a5370ae2-f439-4b4e-b93d-28528364e7b2,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Electrical,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+dd4eb812-5a2a-4bf7-bdee-880bea5c38f1,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Unit B,Electrical Panel,synthetic
+529e5879-2ba7-426e-914d-4eb03e736c8e,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit A,Pump,synthetic
+d39de54a-bc06-42b8-a19a-9e163a189ad3,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+8bb61428-59a4-4a97-b1ec-f1a8e9d35562,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+7df8b91d-12b1-4995-9c30-0e740bd01ba1,Small oil spill near Pump at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Working at Height,LOW,,,,,Refinery Sector 4,Pump,synthetic
+1e0455d2-2648-464c-8387-6a3641b3a46a,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+6fbaf857-7ffc-475d-bed8-610d39428f00,Small oil spill near Pump at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Pump,synthetic
+9ddcffa4-e183-4ace-bd6e-01648443f2a3,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Act,NO,Confined Space,LOW,,,,,Unit B,Pump,synthetic
+2797bae3-07cb-46ae-ad00-7b25ebfc77ca,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+f002cb6c-a0f7-489f-b83f-706cced743d1,Small oil spill near Compressor at Unit A. Cleaned up promptly.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Unit A,Compressor,synthetic
+f98b2d25-79c5-42dd-aaee-a1bb2d6a00a0,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+a91ebf5b-d1e4-49af-8c23-2bde2d3927a3,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+52570349-0179-4e45-9093-314b65fb407a,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Unit A,Compressor,synthetic
+8802be09-7857-475d-8c3a-7e7c3d7cb1d1,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Unit B,Pump,synthetic
+b62a0aa1-e8a5-4d56-991a-d85af9e4156d,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit A,Compressor,synthetic
+77306dfc-a7a6-4cdb-a766-27a632a140e8,<div><p>Small oil spill near Electrical Panel at Refinery Sector 4. Cleaned up promptly.</p></div>,Unsafe Act,NO,Pressure,LOW,,,,,Refinery Sector 4,Electrical Panel,synthetic
+fc434846-37c6-4931-94b7-db7f273c1756,Small oil spill near Compressor at Unit A. Cleaned up promptly.,Unsafe Act,NO,Working at Height,LOW,,,,,Unit A,Compressor,synthetic
+91ea7b8e-8718-4ec8-918d-5a460e3bdbec,,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit B,Valve,synthetic
+fc296c8f-5025-48cd-9ce1-b9e14dba2219,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Valve,synthetic
+8590ebe5-4dbe-4d42-964e-0657f345225e,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+f2014470-3fb6-4675-946d-d3ab589bccc7,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+2f37bcd6-acf1-4742-bcf4-99a414ec7c0e,"During maintenance of the Compressor at Unit B, the technician started work without isolating the equipment. The Compressor was still energized.",Near Miss,YES,Energy Isolation,CRITICAL,,,,,Unit B,Compressor,synthetic
+1666b7c8-c866-4d0f-bead-cae391250c78,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Pressure,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+187c8f4c-6293-4992-8e0d-de4023b730fe,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit B,Compressor,synthetic
+0d8eeece-52a0-40e3-8680-bdef319cd390,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Unit B,Electrical Panel,synthetic
+871e7790-7ccb-4656-b6bf-6f5e4dde3684,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit B,Valve,synthetic
+b10f2a43-6c4f-4b42-97cf-9393fdcf76de,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+6d64df0b-cf6c-443b-9639-3717b23f0db5,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Pump,synthetic
+82305982-5be2-48ed-97f5-494bd34f4003,<div><p>Small oil spill near Pump at Refinery Sector 4. Cleaned up promptly.</p></div>,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Pump,synthetic
+5d92604e-dbb3-4d47-94b2-2a6e72426816,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit A,Compressor,synthetic
+24fbc8ad-364d-4575-89a6-1181981750fe,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Unit B,Pump,synthetic
+208405c1-a225-4740-a832-da4284948fac,Small oil spill near Compressor at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+29c03573-f375-4fff-aa0d-497936126e08,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+bac0fed8-64ef-48ab-9f13-6f5a912cc668,Small oil spill near Valve at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Confined Space,LOW,,,,,Offshore Platform 1,Valve,synthetic
+e7ab402d-c308-4d88-9a91-1123b7dda1f1,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+2673c045-063b-495d-9a0d-06dfe0977980,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit A,Valve,synthetic
+247aa0ce-3326-46b9-a6f7-cc22c01c28a8,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+e5802e09-0bea-4a41-8138-f51b7ff566a4,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Condition,NO,Working at Height,LOW,,,,,Unit B,Electrical Panel,synthetic
+cfab9093-e4aa-4fe7-8377-938c00bec1cb,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Condition,NO,Working at Height,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+3169e4b2-af1b-469a-8276-38d7c6e53a19,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+e5ff6a77-fc4b-49ad-a87b-958f375c6218,Small oil spill near Electrical Panel at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit B,Electrical Panel,synthetic
+8b3cfed0-a2e8-49ee-89f8-9d256d9e75fc,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit B,Pump,synthetic
+7f9c37ce-bd09-458e-b5f9-6a3d53fa3603,Small oil spill near Heat Exchanger at Unit B. Cleaned up promptly.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Unit B,Heat Exchanger,synthetic
+72c8d5f8-31db-4f89-a45e-166d3f99a9d0,Small oil spill near Pump at Unit A. Cleaned up promptly.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit A,Pump,synthetic
+c7e4a0bf-22d4-4ee5-84ba-d612a731646e,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Confined Space,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+87340e5f-0d0e-41f6-b0cf-2621b5a15e6f,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Electrical,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+21220f99-8e35-4bef-9d30-916840d73f1b,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+3e571ccb-c50b-41d5-880d-4dbe1e89aff7,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Pressure,LOW,,,,,Unit B,Valve,synthetic
+fa1d12c2-cfbe-4ed4-8af5-4423eaff483c,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+cd202aba-f31b-4346-acfb-1078aeb3b9c3,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+b3fe9991-122b-4d4d-8614-6b25abeec4ae,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Unit A,Pump,synthetic
+f06cea86-542b-4407-be38-d24b6b3123a9,<div><p>Worker used incorrect gloves for manual handling task. Supervisor corrected the action.</p></div>,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+f6e9a281-7e59-4c96-a8e3-b9a033c7f5cf,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit B,Pump,synthetic
+4f58fa01-bb0a-4c41-b1b2-6a538ed96443,Small oil spill near Compressor at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+4be8780a-ffa0-4985-9a30-03455941066e,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Electrical,LOW,,,,,Offshore Platform 1,Pump,synthetic
+e41bf153-ba9d-474d-a15e-75cec13703e8,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit A,Pump,synthetic
+261a6f39-eb85-478c-830b-9231ba0ca29e,Small oil spill near Electrical Panel at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Unit B,Electrical Panel,synthetic
+01465819-1256-435f-928e-8935726ccc35,Small oil spill near Heat Exchanger at Unit B. Cleaned up promptly.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+4fdf05a1-cd92-4634-9c2a-2ec36364d929,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit B,Compressor,synthetic
+e760fc1a-6040-4b45-87b2-e90cca9fc5d0,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Confined Space,LOW,,,,,Unit A,Electrical Panel,synthetic
+b3404055-51f8-4c87-8533-1d3611289fdd,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit B,Heat Exchanger,synthetic
+8bb26920-ed1c-410a-8a17-0a7eea0cc7c3,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+ffeccc82-dad8-484d-88e9-357da85dbdd9,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Electrical,LOW,,,,,Unit B,Pump,synthetic
+613cd5c2-b169-43fc-a130-ad05f86e5770,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,LOW,,,,,Unit A,Pump,synthetic
+43a32788-9059-44ed-974d-6343b600a97b,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+cabdb69b-96b6-4c69-bd21-ba41939f62e6,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Working at Height,LOW,,,,,Unit B,Compressor,synthetic
+63c069db-4883-401c-8fe5-6cbbca47767d,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+f7133106-f282-45b3-8591-6e7a6dc67ed7,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+2e3bff65-256e-4f92-9c35-c36872cc0913,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Unit A,Valve,synthetic
+b403a582-8965-41cb-b1ff-6586e2a87e62,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+ffca7f8d-73f7-415c-ae08-df1d9fa4a3b7,Small oil spill near Valve at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Unit A,Valve,synthetic
+eb76a2be-7a9d-4e16-8204-4095c6e348f0,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Electrical,LOW,,,,,Unit B,Electrical Panel,synthetic
+5724d197-16fd-4a39-b10a-fad92cfaf1d5,Small oil spill near Pump at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+0ffd93b8-ee9c-42d9-a71c-17ebfd43f90e,<div><p>Trip hazard due to loose cables near Compressor. Cables were immediately organized.</p></div>,Unsafe Act,NO,Pressure,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+cdb3df3b-aa3a-495f-9d1f-c4bde670a803,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Refinery Sector 4,Pump,synthetic
+30cd8841-65f4-4540-bf3b-b4425564fb0c,Small oil spill near Compressor at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Pressure,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+1bf8486f-cfd8-43bf-8531-8024b7ab6ea4,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Act,NO,Electrical,LOW,,,,,Unit B,Pump,synthetic
+8c0039a0-e87d-47be-b0be-69cad22463fc,Small oil spill near Heat Exchanger at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Pressure,LOW,,,,,Unit B,Heat Exchanger,synthetic
+55096335-3cc1-47af-a029-72c8aec729d9,"While working at Offshore Platform 1, worker was at height without fall protection. Serious risk of fatal fall.",Unsafe Act,YES,Working at Height,CRITICAL,,,,,Offshore Platform 1,Compressor,synthetic
+71bc6402-2914-499d-afff-403b6e36470f,<div><p>Trip hazard due to loose cables near Pump. Cables were immediately organized.</p></div>,Unsafe Act,NO,Confined Space,LOW,,,,,Offshore Platform 1,Pump,synthetic
+43c53ae0-e41e-4882-9bc3-4a65298e842b,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Working at Height,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+fe8b8210-8e1a-414e-86e3-fd4ebcd99d3f,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+53851cac-f2fc-4ddf-b76b-8d02fa2338f5,Small oil spill near Electrical Panel at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+f19070d9-c01a-4eeb-9bf6-cc38758e3d91,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Unit B,Pump,synthetic
+9c8366f5-e7df-4f0d-9b15-a779a38484ec,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+a6134ae3-d5ed-41a4-8d24-b737974a24c9,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit B,Valve,synthetic
+a472b993-80bf-418d-8b84-080352f636c8,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit B,Pump,synthetic
+5c6a2d88-21d5-4025-bb03-57c7b4b0aac5,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Pressure,LOW,,,,,Unit A,Compressor,synthetic
+c939326a-b724-4186-a1a3-45149e8b0ec9,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit B,Compressor,synthetic
+8fd75fad-1a2d-4eee-a9aa-e3b88c0e410c,Small oil spill near Pump at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+81792508-3aec-4c67-bf2e-b3a7ce1c8395,,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Unit B,Electrical Panel,synthetic
+5fef5689-3e64-45b4-87ab-1ef735b168f8,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+c38a75ad-2168-43d1-80c7-8112c42411e9,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+5910699b-b2d3-4e83-8529-dd9d76e3719c,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit A,Pump,synthetic
+5ea4fb2c-e4cd-4523-b74e-d966675dfe30,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+098bdc63-38a1-4290-9c92-4932c3530ade,Small oil spill near Pump at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Working at Height,LOW,,,,,Unit A,Pump,synthetic
+f99db482-47b4-49a9-805c-2e39a514caef,Small oil spill near Electrical Panel at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+a607b5f8-3a1c-43a5-963b-4fb90be899d0,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Pump,synthetic
+9060c42f-bb47-4e7f-beca-00ac02010d74,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+19aaee10-8b2e-493b-9ea4-719aca9be16b,Line opened with residual pressure on the Compressor. High-energy release narrowly missed the operator.,Unsafe Act,YES,Pressure,CRITICAL,,,,,Offshore Platform 1,Compressor,synthetic
+61a9350b-a58b-4845-ad1b-42c5c18797f5,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Unit A,Compressor,synthetic
+c6deee8c-0748-4310-9851-e910e7f05b69,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+4be800ff-8b09-497d-8444-37a2db1e1e4e,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Confined Space,LOW,,,,,Refinery Sector 4,Electrical Panel,synthetic
+a3f2a0e5-2e5c-4e65-9663-f4008a4fe741,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+9f3fa737-f8bb-4a13-83a5-586b8df2ec09,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Pressure,LOW,,,,,Unit A,Valve,synthetic
+1cac43d5-51b1-452d-94dc-9e16289f4359,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit A,Heat Exchanger,synthetic
+be2c2e4e-d10c-4582-aee6-01e29e243171,Small oil spill near Pump at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Pressure,LOW,,,,,Unit B,Pump,synthetic
+2b22712e-ff67-4484-922d-8500be3e0b78,Small oil spill near Pump at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Pressure,LOW,,,,,Unit B,Pump,synthetic
+8efc2af4-2711-4b98-af62-0139cd5ec664,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+2561fc07-284b-4bde-b3bf-844d4e79a614,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+3380db19-2f7f-40fd-b404-71859bd427ef,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+a3df405e-6f87-45dc-abd4-60e05b1a76fe,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+004f8618-9d94-4ec8-b30f-f51cb65f80aa,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Unit A,Valve,synthetic
+1c74c32f-ace2-47a4-9b69-28a2575dfa33,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Working at Height,LOW,,,,,Unit A,Pump,synthetic
+17bf27c1-8672-4a9b-b72f-61677abe2548,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Electrical,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+9091e641-4a20-474f-b769-06d2d827f642,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit B,Electrical Panel,synthetic
+cc3e7329-d270-4654-96c9-7a5dddeb8d86,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+fff74173-6737-4023-8cbe-2356a8e0a857,"While working at Unit A, worker was at height without fall protection. Serious risk of fatal fall.",Near Miss,YES,Working at Height,CRITICAL,,,,,Unit A,Heat Exchanger,synthetic
+4f76484d-4ceb-4f39-b731-1331316860fd,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+1215d9bc-2a49-44ef-a6f6-4a5810cb369c,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Confined Space,LOW,,,,,Unit B,Compressor,synthetic
+e7b4eb90-05ce-4181-9f84-5e95498e7ff0,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Confined Space,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+d63b194e-c1f1-452f-8fff-ab991f24fd3f,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+17c54d93-e80f-48c9-aaa7-d7b2151ff544,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit A,Compressor,synthetic
+d8344f4a-ad2c-47fa-90ec-5b1b8346ced8,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit A,Heat Exchanger,synthetic
+1427283d-58b2-4925-b29f-7b98f68ee62d,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,LOW,,,,,Unit A,Pump,synthetic
+f53fd6df-90aa-46c8-b576-0475960d14c0,<div><p>Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.</p></div>,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Unit B,Electrical Panel,synthetic
+d3df55d2-0338-4a15-845d-35bddbf2f425,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit A,Compressor,synthetic
+9fabcb48-463c-43eb-b5f5-f69ae418553a,Small oil spill near Compressor at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Electrical,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+5101c7b0-17bf-4ed1-8d31-05c5df12fc43,Small oil spill near Valve at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+ca81327a-bdcb-4fb8-a76c-138622931ec2,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+68f8eb27-367d-4a86-9886-28b1016fee7d,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+f6d58c41-f36e-4ed4-b827-ae4df8de1ff8,Small oil spill near Heat Exchanger at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+d42a13f8-a90c-4dc8-b1dd-c9cb6628b76e,Small oil spill near Heat Exchanger at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+cb924fbf-5a9e-4488-8ae3-b2c47b5b3ce5,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+d257142a-378c-44aa-9b71-a01b67fa2d98,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+a7ad37af-f32f-4194-9a1d-19e9f36dc34e,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+53e90969-32a2-44bb-8e7b-597b31a88b77,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+5584c965-06f9-4920-a848-3042e9067b62,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+cabe50fa-af9d-4a79-9658-7bd10b24dfa0,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+b0ca20fd-6d24-47bf-9f85-7dbf50d4c807,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Unit B,Electrical Panel,synthetic
+d836368b-804f-40ac-b04e-9feaa82716eb,Small oil spill near Valve at Unit A. Cleaned up promptly.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit A,Valve,synthetic
+02288bf0-8cf6-47b0-b3d4-8560885a8b28,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Pressure,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+fc2b2337-139f-49fa-bb62-1c8a9f094bc8,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+7c4160e4-0d8d-4885-9567-ecb401640524,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+1ef033bd-0387-45b8-b144-7f01f63241d5,Line opened with residual pressure on the Pump. High-energy release narrowly missed the operator.,Near Miss,YES,Confined Space,HIGH,,,,,Unit A,Pump,synthetic
+64de2c98-86a1-4c5f-afd0-cb1fbd796092,<div><p>Worker observed not wearing safety glasses at Refinery Sector 4.</p></div>,Unsafe Act,NO,Confined Space,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+791fa205-bc05-4385-bcdd-86b8b28a83fd,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+e1a12703-9ba4-467b-89f8-2b3865d0a8e8,<div><p>Worker used incorrect gloves for manual handling task. Supervisor corrected the action.</p></div>,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+2c4f520b-96a5-4a69-a936-c25dc91eb1d5,Worker entered the confined space at Unit A without conducting a gas test. No standby person was present.,Near Miss,YES,Working at Height,HIGH,,,,,Unit A,Heat Exchanger,synthetic
+8c3db692-b240-472c-9256-c5588ffae42e,Small oil spill near Valve at Unit B. Cleaned up promptly.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit B,Valve,synthetic
+7b6df067-cd37-461f-91fb-b961e17b4d59,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+63359b32-6507-4bde-a191-1a0ef8ba792e,Small oil spill near Compressor at Unit B. Cleaned up promptly.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Unit B,Compressor,synthetic
+799e4eab-317a-4486-ba8a-f0bba034ab75,Small oil spill near Compressor at Unit B. Cleaned up promptly.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Unit B,Compressor,synthetic
+e978ca2a-0f97-488f-8b47-5a757571a254,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+ae150a8c-8d49-42df-9598-17e18991b640,Small oil spill near Valve at Unit A. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Unit A,Valve,synthetic
+2f0da264-125c-43eb-850c-0a5b3d10ddfc,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Unit A,Pump,synthetic
+af3bb2cf-622a-4407-91c2-51a21b919a75,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Unit B,Valve,synthetic
+c87cef0b-bc54-4b0f-8fa7-616f14b30f73,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+69a92624-c606-44d2-aa42-17c92728b416,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Unit A,Valve,synthetic
+1a7fe4a4-703c-4860-92f7-f76d7a8e2e11,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+e8bb6578-49ef-4856-8ed9-8ca13aaf102b,Small oil spill near Electrical Panel at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Unit B,Electrical Panel,synthetic
+8d8da9fa-89e1-4b92-87ae-d5abb62a134e,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Unit B,Valve,synthetic
+9d7e0c09-ee81-43a3-912e-b765e9f082e0,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+0b8db62b-9df8-46b1-a827-dce3c43ce3ee,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+c20a28e2-d5b0-4490-b0ad-14598c3118b9,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+87df40ea-9df3-4b63-a19c-bd97548fd52d,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit A,Valve,synthetic
+3b5af504-d1a1-4266-b6ff-8c2bab6eb34e,Small oil spill near Pump at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit A,Pump,synthetic
+e3358686-3d5b-4246-978a-fc271c8b4db7,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+20ee42b7-f634-4920-944b-fe91ed9d1dcd,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit B,Valve,synthetic
+f80403ae-b2a0-437f-90d8-4de248cd123f,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+5962a4d8-7bef-47f5-9e35-579629d0cdc5,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Unit A,Valve,synthetic
+cd7c5938-7f00-4ef7-a2ab-bca2b8f35d13,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Electrical,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+3533a7b5-e04c-4616-8cf7-59b67f61397c,Small oil spill near Valve at Unit A. Cleaned up promptly.,Unsafe Act,NO,Electrical,LOW,,,,,Unit A,Valve,synthetic
+23e7d82c-c150-45bc-b5c5-4b7fea7f5d7b,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Unit A,Heat Exchanger,synthetic
+762e6cc5-ac01-4a50-9b9c-2894c5fd81f4,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+da8970c9-d363-4101-92e3-75f7d08a6464,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Unit A,Valve,synthetic
+69893848-c577-4aa9-83ed-b6582f302ee6,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Confined Space,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+6e2d14c0-8eb8-4ee3-b151-26a18c6272cf,Small oil spill near Heat Exchanger at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+e11ef551-6f8c-49f1-9aa7-454e49a5eb58,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+1b5a3f52-eaed-4412-9c58-893e1404a126,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Working at Height,LOW,,,,,Unit B,Heat Exchanger,synthetic
+fdb1452f-97fc-430b-ab41-c4cfbb1f79ba,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Pressure,LOW,,,,,Refinery Sector 4,Valve,synthetic
+0566d07c-c6dc-4839-904a-6adf86b07d6e,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+bc088cf3-cf8d-45b2-896d-16ead01838ac,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Unit A,Valve,synthetic
+b9f55c84-f1ae-4df4-852b-9a183d3055b9,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit B,Pump,synthetic
+be8c1f17-0da2-4680-9fbc-084508bd9a81,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+af5db021-39b9-4f7b-b28b-efd1244f2e0b,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Working at Height,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+b25036a0-49f7-4e0b-84da-684b4136d3aa,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Unit B,Compressor,synthetic
+4a3b3910-4751-40f3-9d29-be614425c128,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Unit A,Pump,synthetic
+814bada9-5475-4762-87c4-35c6842db38f,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+f4f1a078-2568-4f36-a6a1-d5a4652d9a0e,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+12e04294-3d81-4eee-9c1c-25191b36f8a1,Small oil spill near Electrical Panel at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+e90aa100-8a88-4b5c-aa35-2ad944e9e7b9,"While working at Unit A, worker was at height without fall protection. Serious risk of fatal fall.",Near Miss,YES,Confined Space,HIGH,,,,,Unit A,Pump,synthetic
+7a74c826-71ba-4372-850e-c1d1c4358f55,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+7ce7625f-313c-4e71-8caa-fc60e5c62e9e,Small oil spill near Heat Exchanger at Unit A. Cleaned up promptly.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+f5e4b725-651d-4cd3-a81c-251d9e0d6572,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Pressure,LOW,,,,,Refinery Sector 4,Pump,synthetic
+a0a7311a-d30f-420e-8884-849906f82693,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Electrical,LOW,,,,,Refinery Sector 4,Pump,synthetic
+c651570a-b55a-4931-ab8d-e97101bec7bf,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Unit B,Compressor,synthetic
+93091b50-228a-4f43-b54c-1a09acc9e420,Small oil spill near Heat Exchanger at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Electrical,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+2e8c1a03-ccd6-41e9-9f5e-a15f089b01c7,Small oil spill near Electrical Panel at Unit B. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Unit B,Electrical Panel,synthetic
+fe0a03cc-978e-4efb-b8b0-c662035ecb48,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+c1ad2c23-37e4-4d5a-b037-692f070903b6,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+4bec10b7-a89d-45b3-946e-f69e2efe2166,Small oil spill near Pump at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Manual Handling,LOW,,,,,Refinery Sector 4,Pump,synthetic
+d621b04d-7b2b-4491-b453-4e6cdf88406a,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Unit A,Valve,synthetic
+97c8263c-1f78-459e-bce9-118b99e390dd,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Manual Handling,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+d601545c-e2cb-4b95-85d0-fbfb4134f319,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+8ced670e-c004-4463-b2c6-bbbc46bf830f,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+88ddf5f4-a4b9-4037-bcbe-d3ce2b5f3a85,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit A,Pump,synthetic
+f61672a2-4d30-4752-a590-d483b3005380,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Pump,synthetic
+cb9b9896-49cc-49a7-baa5-bb381aee96ea,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Electrical,LOW,,,,,Refinery Sector 4,Pump,synthetic
+b60ee5e4-93c0-4140-9d48-9f9e7f4f32d2,Small oil spill near Electrical Panel at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+c0c8bb90-de13-4e25-86ed-be157fccecd4,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Unit A,Valve,synthetic
+4dff4f74-7cc3-4715-b8ec-09934e1ade45,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Pressure,LOW,,,,,Unit A,Valve,synthetic
+0a86c24e-aca6-4f75-96a6-8478373add1c,Small oil spill near Pump at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Refinery Sector 4,Pump,synthetic
+acd3ac5f-da1f-4df9-bc96-f7d509eeb6b0,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+60dd99ee-692f-485a-8198-b1588d663436,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+59fb8c04-172f-43d5-8b13-292605491f94,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+fb4fd834-d33b-4636-845f-49eb731a9ca7,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit A,Valve,synthetic
+d1c342ea-4a14-4a05-8c6e-c6ea4a2b6bda,<div><p>Worker observed not wearing safety glasses at Unit A.</p></div>,Unsafe Act,NO,Electrical,LOW,,,,,Unit A,Pump,synthetic
+0c3dfdb5-fd6c-46b1-a4f1-41885754b75e,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+25c9323e-74b4-4922-99c5-19313763164e,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+7b6100d9-56aa-4bdc-b322-ebcedf3e13e7,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+b22adc37-043f-4852-976b-32c780b30815,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+70cde1a7-f959-458a-8555-563f1cb31292,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Electrical,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+e5eadb05-128d-4f95-9ed7-ed759fe9a70d,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Working at Height,LOW,,,,,Offshore Platform 1,Pump,synthetic
+f9fcbf6e-bed8-4ec7-8e1d-65b81cc2b007,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+6aea0ddc-ba3b-4045-ae6a-3dda2c73b533,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+e5d8e003-26af-4bf4-907b-0b841af9cb75,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Electrical,LOW,,,,,Offshore Platform 1,Pump,synthetic
+7362442e-caf4-4102-be6a-d32a4a5a4094,Small oil spill near Compressor at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Pressure,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+30e5e6f6-31ae-46dd-9b5c-eb3409ba1d10,"During maintenance of the Valve at Unit A, the technician started work without isolating the equipment. The Valve was still energized.",Unsafe Act,YES,Pressure,HIGH,,,,,Unit A,Valve,synthetic
+d653476e-7b96-49d6-b0cc-fa6b105fa83d,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Working at Height,LOW,,,,,Unit B,Pump,synthetic
+eed9bdb6-921e-428e-b8f0-1086cb08816f,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Confined Space,LOW,,,,,Unit B,Valve,synthetic
+36573474-f313-4204-9942-899e61ec478c,<div><p>Small oil spill near Compressor at Offshore Platform 1. Cleaned up promptly.</p></div>,Unsafe Condition,NO,Manual Handling,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+ae776796-a3cd-4c36-a7cd-5ccabbabd91b,Line opened with residual pressure on the Electrical Panel. High-energy release narrowly missed the operator.,Near Miss,YES,Working at Height,CRITICAL,,,,,Unit A,Electrical Panel,synthetic
+c5d75794-20b7-477d-a690-843c230405b7,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Act,NO,Manual Handling,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+7db3f5df-83d2-4813-81ee-65de9f7bdbd9,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Electrical,LOW,,,,,Unit B,Valve,synthetic
+c4928394-7ff1-49ee-9819-a4bb50cea313,Small oil spill near Valve at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Working at Height,LOW,,,,,Refinery Sector 4,Valve,synthetic
+edc735dd-2a4a-4c7c-81e2-4d8e04029a1c,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit A,Compressor,synthetic
+4bc777f7-bfc8-47fd-97a3-382690c8f713,"While working at Offshore Platform 1, worker was at height without fall protection. Serious risk of fatal fall.",Near Miss,YES,Confined Space,CRITICAL,,,,,Offshore Platform 1,Electrical Panel,synthetic
+18dcaaec-622a-4859-972e-faef73135aa6,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Pressure,LOW,,,,,Unit A,Electrical Panel,synthetic
+c96f0ffd-7e8b-4c35-8012-169309e20356,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit A,Pump,synthetic
+4f1bf48d-d283-4fcb-90fd-0d72623d64c1,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Act,NO,Pressure,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+3e5401f9-9c31-4ca8-9010-7bd157aed3c8,Line opened with residual pressure on the Valve. High-energy release narrowly missed the operator.,Unsafe Act,YES,Pressure,CRITICAL,,,,,Unit A,Valve,synthetic
+3c8d51ef-1a3e-4914-860b-261283e01b73,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+c4a33957-9501-4ac1-a783-2a7f1e5bb5d7,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit A,Valve,synthetic
+85413326-6002-4b0d-a3e9-22bae7bcf2a0,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+b9635115-e782-4f6f-a6f3-05a2a33dd5e8,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit A,Pump,synthetic
+0bd093ed-c22a-4cf7-afc3-ca6c47c7e121,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+a9a79059-47c2-423e-97cf-afc6c74f339c,Line opened with residual pressure on the Valve. High-energy release narrowly missed the operator.,Near Miss,YES,Confined Space,HIGH,,,,,Unit B,Valve,synthetic
+53046e2b-edd6-4c03-9d5e-84b0b6a5e451,,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+2780351d-6677-4f2f-845d-d3d91a639be7,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Pressure,LOW,,,,,Unit B,Valve,synthetic
+450faf5d-9d0b-4c60-9de3-f28ec818fe3d,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+12bc1745-c4f3-4c4f-936d-065969fc2d38,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Pressure,LOW,,,,,Refinery Sector 4,Valve,synthetic
+af68bdba-fc28-4b2a-937f-11db2a3a31d5,Small oil spill near Pump at Unit A. Cleaned up promptly.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit A,Pump,synthetic
+1ec76365-8442-4c43-81a1-9223462ebc92,<div><p>Small oil spill near Pump at Unit B. Cleaned up promptly.</p></div>,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit B,Pump,synthetic
+887fbcc1-1967-4e19-a33a-c2bb8dbeeaf9,Small oil spill near Compressor at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+e8921e86-bf84-46aa-a162-2b1d40cd9409,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+86e86639-843c-4545-8e27-13df6c1ba673,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Electrical,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+bce555ae-2dfc-4737-9b6a-fa75e2ed7ca9,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+1da234de-eb0f-491b-8ca2-d4f54c4b2ee4,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Pump,synthetic
+eacc5775-3fd8-459c-9260-94053c7cb3f3,,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+fa1f3d4d-341d-49a6-8923-ff85180926ae,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Pressure,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+9d4ab7de-c871-40c2-93ba-26152f5167fe,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Confined Space,LOW,,,,,Offshore Platform 1,Valve,synthetic
+62ab2360-b9ad-4404-a386-e527bf7b481f,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Confined Space,LOW,,,,,Offshore Platform 1,Valve,synthetic
+df1c4bad-193e-440a-9674-6a47c47a537b,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit B,Valve,synthetic
+aec87b94-35e3-4933-b99f-c0a2cf5b7bd5,Small oil spill near Electrical Panel at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+30c6806a-9f8a-487a-8f78-a1b0f6b6cb6f,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit A,Compressor,synthetic
+ca6ebd62-8761-403b-814a-e9b541978ea7,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit A,Compressor,synthetic
+e4fab500-656f-4997-8832-1d8acc2f5c05,,Unsafe Act,NO,Pressure,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+75262c29-c0d3-4d9f-8ca9-7c87875403da,<div><p>Worker used incorrect gloves for manual handling task. Supervisor corrected the action.</p></div>,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Unit B,Compressor,synthetic
+de2a4245-0db0-41da-a687-d35b27662f9a,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+4921fec7-31d6-4f93-ac67-5ad47ba76aa5,Small oil spill near Pump at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Electrical,LOW,,,,,Refinery Sector 4,Pump,synthetic
+0ca76d2c-5f01-4422-9647-c40bbb3223e3,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Electrical,LOW,,,,,Unit A,Valve,synthetic
+9edaaa20-780f-4ce2-a8de-8f919b1c5fdf,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+a17cd673-bb35-4dd0-929b-ff2b0178b29d,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Electrical,LOW,,,,,Offshore Platform 1,Pump,synthetic
+d648d776-fc12-4d85-8b12-56f2ee8a056b,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+e93d7166-2dfa-44e6-b707-b516ed6a3b29,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Unit A,Pump,synthetic
+fcf1467a-82f5-448b-8009-ad5a64ee563b,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Unit B,Compressor,synthetic
+334bb393-1ce2-46d2-bff2-2a2c97e090e2,Small oil spill near Compressor at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Unit A,Compressor,synthetic
+338e4887-eeeb-40c8-88cb-672875960bb9,Small oil spill near Valve at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Pressure,LOW,,,,,Refinery Sector 4,Valve,synthetic
+fbf166db-a9ae-4161-ac5a-28bfb72ee20d,Small oil spill near Electrical Panel at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Unit B,Electrical Panel,synthetic
+2b2ad026-29a2-4d19-8c6c-7801498cb649,Small oil spill near Heat Exchanger at Unit B. Cleaned up promptly.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Unit B,Heat Exchanger,synthetic
+1aabc1e7-aee5-4fda-8d18-52b0ab0892c1,Small oil spill near Heat Exchanger at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+62a1cdb5-1ea7-4705-a055-00b1a80247d5,Small oil spill near Pump at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Pump,synthetic
+9cd0c818-bad1-4848-a9f8-7e3414088ae0,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Unit A,Valve,synthetic
+08e0f45f-85b3-487f-896e-fa3945e79052,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+8ac344bb-9eee-49dd-9131-d2fcd0f48ed9,Small oil spill near Electrical Panel at Unit B. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Unit B,Electrical Panel,synthetic
+d45530d4-7a23-4ca8-9fbc-6e78b6c51cda,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Manual Handling,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+0cdd6fa7-767e-4494-8115-22a965830c33,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit B,Pump,synthetic
+cd1f06c1-ebe4-4d78-9e9c-203b1310fd4a,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+cfc19b5b-bd01-4000-bcf9-fa35123af2af,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+19048c8c-3440-438a-9f48-f430e573a61c,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+3c2700fe-4a38-408e-a7ee-411c8506eae1,Small oil spill near Valve at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit B,Valve,synthetic
+3dbd32ae-d2f6-4d69-95a1-0b05bf2afe29,Small oil spill near Valve at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+03114305-d512-4af4-94bf-b2de7a027cb5,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+fdafa8f6-6d33-4bab-a380-9514ba1ef27d,Small oil spill near Pump at Unit A. Cleaned up promptly.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit A,Pump,synthetic
+a30dee4b-ffa1-4f28-9de5-80418d6310ee,,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+77c9244c-0f13-4815-855b-db881b0facfc,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+bd97361a-7f58-4a3b-8ff2-926e38084490,<div><p>Worker used incorrect gloves for manual handling task. Supervisor corrected the action.</p></div>,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Unit A,Valve,synthetic
+4e631c8a-6aab-48b5-a922-20810ce07a8a,<div><p>Worker used incorrect gloves for manual handling task. Supervisor corrected the action.</p></div>,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Unit A,Valve,synthetic
+9c84f694-1aad-4b5c-86ce-5cd2556573a9,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Confined Space,LOW,,,,,Refinery Sector 4,Pump,synthetic
+df8e25bc-f3d6-43d3-99db-f90996fe0ccf,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Pressure,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+342d1624-e15e-4cad-9e00-a67078a039b3,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Electrical,LOW,,,,,Unit A,Heat Exchanger,synthetic
+0fa6118d-f2e0-4056-847e-dc58a0bf9082,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Electrical,LOW,,,,,Unit A,Heat Exchanger,synthetic
+c18b71da-71f4-420e-8895-dd74be0787bf,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+c9086360-ab0d-4a88-a40f-c0666cba32d1,Small oil spill near Pump at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Pump,synthetic
+4b1a1307-cbf9-433d-a4d1-fe8210e8b7e6,<div><p>Worker used incorrect gloves for manual handling task. Supervisor corrected the action.</p></div>,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Unit A,Compressor,synthetic
+0198c9e1-58dd-494f-b911-6ca56c106486,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+d5ce5149-1487-4697-b0ef-5a9d87bc7b7b,Small oil spill near Valve at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+8661b950-94ed-4804-9a13-e998a372c813,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+4162964c-5b96-4220-bf2b-d3728856f95f,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Unit B,Electrical Panel,synthetic
+bae670e3-c727-422f-8b89-2a2caec604cb,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+5d6aed3a-d60d-4ef5-a807-8e6b79f632c2,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Pressure,LOW,,,,,Unit B,Compressor,synthetic
+e2516b7b-5f8b-4891-bda9-bb763c50a056,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Unit B,Compressor,synthetic
+0db2a79a-2d51-488e-95ff-4fd177e40f17,Small oil spill near Pump at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Pump,synthetic
+8eb854db-33a9-4ad2-aec1-d7085b7637c9,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+efea53e3-d190-4b30-ad53-6da1dbf326fb,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit A,Pump,synthetic
+cd6de1cb-5278-44dc-a3d8-f06ed39eafb2,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Pump,synthetic
+72e584f8-f9b5-4c97-96ef-58701519d389,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Working at Height,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+0062e5c6-fbb2-4f62-92de-86ec36faa806,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+28c551d5-7232-4f87-9145-d5f3d55d8e54,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Unit A,Compressor,synthetic
+365c59f9-56e4-4c99-ae31-515b6df015f9,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit B,Compressor,synthetic
+5f6e9110-9b3a-4299-a9bf-df8e655b63ef,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Pump,synthetic
+dfc616c8-4e1f-4a7a-bf3b-192eca5bd9fe,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+7b4cdc05-308a-4cf4-87a1-638bacd05f1c,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Act,NO,Confined Space,LOW,,,,,Refinery Sector 4,Pump,synthetic
+1ffa4a6f-744f-41d7-9533-499b6a7e16e8,<div><p>Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.</p></div>,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+f7f631d8-e4ef-4a1a-a9be-608c4e2c892c,"<div><p>While working at Refinery Sector 4, worker was at height without fall protection. Serious risk of fatal fall.</p></div>",Near Miss,YES,Pressure,HIGH,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+866159c7-ab10-49c0-a7e0-3ea04f27c684,Small oil spill near Heat Exchanger at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Confined Space,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+beeb9bdf-d717-4d10-b0b5-962e60413801,Small oil spill near Heat Exchanger at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+d335cae2-1542-4e9d-af22-21de18b5ff67,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Working at Height,LOW,,,,,Unit A,Heat Exchanger,synthetic
+ecd8609e-518a-4f1b-8a50-f56a6adfafda,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit A,Compressor,synthetic
+b195831b-35fa-4a13-9b5f-cf04fb9f842c,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Pump,synthetic
+c3e1ef11-a890-4597-8364-8a86cd71381b,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Electrical,LOW,,,,,Unit A,Electrical Panel,synthetic
+b7d7b2b7-8ff3-403d-81bd-39e04c69193b,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+3b710a35-0907-43b2-8859-7456c6456d80,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,LOW,,,,,Refinery Sector 4,Pump,synthetic
+cb6a3c2a-1876-432c-8e07-a30a4982917a,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Pressure,LOW,,,,,Unit A,Electrical Panel,synthetic
+735fd8a2-f2d7-48b2-baa9-33bb4f4b99c2,Small oil spill near Compressor at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Pressure,LOW,,,,,Unit A,Compressor,synthetic
+a3809e93-f4f5-4e80-9069-613bd7730ea7,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit B,Compressor,synthetic
+705926e1-cb92-4121-8e14-0c2fb207cb95,Small oil spill near Heat Exchanger at Unit A. Cleaned up promptly.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+3dcee984-7680-4d41-b855-742b613cc061,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Condition,NO,Electrical,LOW,,,,,Unit B,Electrical Panel,synthetic
+5cf9dbf9-5eb4-48ac-a3ee-f397834b8b67,Small oil spill near Electrical Panel at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+6362afc5-f83b-43ce-af5c-c8c88d3261fe,Small oil spill near Electrical Panel at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+fd8c6f6c-fe4c-4f69-b11c-a1ce2d57a060,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit B,Electrical Panel,synthetic
+69038fc6-d9dc-46ac-b72a-458f0089c325,Small oil spill near Heat Exchanger at Unit B. Cleaned up promptly.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+6ea75d14-6494-4b7b-a2e0-fe598c1ea2d7,<div><p>Worker observed not wearing safety glasses at Unit B.</p></div>,Unsafe Condition,NO,Electrical,LOW,,,,,Unit B,Compressor,synthetic
+e8e3d0a4-c903-4e94-9fcb-c0f6dbbd74c8,Small oil spill near Compressor at Unit A. Cleaned up promptly.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit A,Compressor,synthetic
+e8bd4450-ae36-4646-96b4-0cd2aa3920cf,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+5d356ca7-2c23-42d4-ba35-3ddc824f2506,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+93b13701-e85e-41d1-bad4-19b032d9d0da,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Unit B,Valve,synthetic
+25f3ca20-dd68-4e73-8c1c-4f845d0e8ffb,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Confined Space,LOW,,,,,Refinery Sector 4,Electrical Panel,synthetic
+74061e42-220b-417f-8bd0-da6128f07fee,Small oil spill near Pump at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Working at Height,LOW,,,,,Offshore Platform 1,Pump,synthetic
+e41a9fe3-6ba7-4a00-8d02-f761b076069e,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Condition,NO,Pressure,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+e8ed0f8a-c956-46b7-a8bf-918cac7e1745,Small oil spill near Heat Exchanger at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+9a96ec87-c8d2-4de3-b9e9-af76cada7cd9,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+8861f03c-787b-463c-bb17-78e5f20d6ae7,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit A,Pump,synthetic
+966781dd-e87b-405f-85f9-799ac2794705,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit A,Pump,synthetic
+8d8ac0a9-904b-4ee5-abdb-c4ed027100a5,Small oil spill near Pump at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Unit B,Pump,synthetic
+172a8c02-d0ce-4c91-9117-97cb761ff36b,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+9b4231e2-5c56-49cc-af74-95224dfbd824,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Electrical,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+c97be5cc-c10e-490d-968c-36eb6d2050fc,Small oil spill near Heat Exchanger at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+d29de9db-99cf-436e-9ca1-051033751983,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+6f9a078b-0aa0-4b74-9aa7-432527d97112,Small oil spill near Heat Exchanger at Unit A. Cleaned up promptly.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+bf1a40fe-9da2-4990-9ee4-7f578a70226e,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+4db37350-7f02-4777-bc77-7cc663c9fed8,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+a18242ad-6a06-47aa-b64a-dd3416a44538,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Unit A,Pump,synthetic
+e7350a31-29b4-4522-b47d-5730b920fc77,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Unit A,Valve,synthetic
+94d0f0d7-c0f8-47c2-82de-1d336c290f1e,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit A,Compressor,synthetic
+a2519c18-3dc4-448f-9c06-fc13cc4115a5,Small oil spill near Electrical Panel at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+d470c1be-a579-4a6c-b254-5e3277b7ff8c,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+b7031a26-399c-407d-af57-f10a28c71da4,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+ad06af74-1851-48f1-8f07-013fd3712ffd,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Unit B,Pump,synthetic
+544dfc48-53fb-4140-af8f-6b363603eeae,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Unit B,Heat Exchanger,synthetic
+126a05d6-f3bc-4742-ba86-a0be51ea8c16,<div><p>Small oil spill near Valve at Unit B. Cleaned up promptly.</p></div>,Unsafe Condition,NO,Electrical,LOW,,,,,Unit B,Valve,synthetic
+350106a2-42db-4fae-88ef-20525925aac0,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Unit A,Compressor,synthetic
+8473aae6-117b-473d-a339-1b0c79fcad97,Small oil spill near Electrical Panel at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit B,Electrical Panel,synthetic
+930d0edb-2c58-4337-8d6d-e90b255d3bdd,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Unit B,Compressor,synthetic
+29d204c3-4c4d-45b4-8478-9a6b7ef5f5f7,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Unit A,Compressor,synthetic
+58436cf5-da48-49a7-91d9-ed4463bc1533,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+d7cc3b37-c874-4fad-9c07-53d572894c31,Small oil spill near Compressor at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+9e788b40-bda0-4def-8d65-26b782e45b15,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+c60cfc2a-6a48-44f7-9c39-2e458a099301,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+b739a063-3018-406f-8c0d-303a99529b01,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+53238632-e2c3-4d97-a46e-14aa34e53c4f,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+f05c95a8-0b06-4836-81fb-4ed17120c481,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+afe6af9f-a96a-428d-ac1c-2cde78908b60,Small oil spill near Compressor at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Unit B,Compressor,synthetic
+4195054a-4efc-4417-8099-db3888eeb923,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+321ea8e7-03f7-454f-8eb1-bf8db0fd61eb,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+51f4dc57-a1d1-4f35-92ac-fc6f678f7338,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+39c9dcbe-5d1a-4afc-9d32-6357a94315b7,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Electrical Panel,synthetic
+1e80cb12-59b8-4d9b-a04c-c50b85756eb8,,Unsafe Act,NO,Confined Space,LOW,,,,,Unit A,Electrical Panel,synthetic
+54f56670-b762-4433-9cc7-7976eba8ffff,Small oil spill near Heat Exchanger at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Pressure,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+7f9594bb-56ae-4234-b813-ea014260e08f,Small oil spill near Heat Exchanger at Unit A. Cleaned up promptly.,Unsafe Act,NO,Working at Height,LOW,,,,,Unit A,Heat Exchanger,synthetic
+75fe5910-c8a2-42cb-bab4-fce7c85e5033,Small oil spill near Heat Exchanger at Unit B. Cleaned up promptly.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+858cf156-b4e7-404e-a7d3-859e0e0a410a,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+ebabeeca-1b9d-42e0-9542-3d174b1681de,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit A,Pump,synthetic
+8f770066-c825-4ec4-81dc-39dd9701e219,Worker entered the confined space at Offshore Platform 1 without conducting a gas test. No standby person was present.,Near Miss,YES,Energy Isolation,CRITICAL,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+5ddbe6b2-fc4c-478c-81b7-f5adb7027ab0,<div><p>Small oil spill near Compressor at Offshore Platform 1. Cleaned up promptly.</p></div>,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+34ed8d4d-33f9-44a6-8498-eefdba27e10b,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+1e7dd692-eebd-41a4-9d82-7db2ae4a7650,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Pump,synthetic
+e89269aa-078d-42df-ad22-9a4e69a9f21d,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Condition,NO,Pressure,LOW,,,,,Unit B,Pump,synthetic
+a7381939-7700-46ce-80f4-a685676719d9,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Working at Height,LOW,,,,,Refinery Sector 4,Pump,synthetic
+01de4453-98b8-4dcc-8c4e-50704e08afd3,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+7aac2db2-8292-4d7c-b821-cf00ea10394c,Worker entered the confined space at Unit A without conducting a gas test. No standby person was present.,Near Miss,YES,Pressure,HIGH,,,,,Unit A,Heat Exchanger,synthetic
+a7959057-e70c-4e2c-9942-ff384bc9ce76,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+357f80cd-77cf-4c93-93d9-d110ac5b4a61,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit B,Electrical Panel,synthetic
+4e298205-2259-46da-b3cd-15d3d9300520,Small oil spill near Compressor at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit A,Compressor,synthetic
+24263394-4dfd-419f-9d3d-99f787fa6d52,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Pump,synthetic
+0a87b39f-9086-42f6-bf5a-449f90081626,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Unit B,Pump,synthetic
+2e6a3feb-c3d9-429c-9e54-5f985925b166,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+f9426879-fad8-4c94-8872-d2052fc84dd4,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Unit A,Valve,synthetic
+74df44c7-3d26-493d-8555-060f6d097107,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+a0747649-95a4-430c-8576-dc5b8912cf45,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+8b7718fa-11f3-414c-b76d-f847e956b9ac,Small oil spill near Pump at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit A,Pump,synthetic
+5fe8b2c4-05f7-46a7-a609-39f5c243c355,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit B,Valve,synthetic
+5ec6ad0d-f111-43ef-840c-a42a2f03cfd8,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+b7050733-1f40-467a-9a42-7e430f53c3c4,Small oil spill near Pump at Unit A. Cleaned up promptly.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit A,Pump,synthetic
+84614ea2-3a6c-4235-b501-cbccf68f6df1,Small oil spill near Valve at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+20e76c13-8bd6-4900-9f0a-1e5c0b2c7f73,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+209dd3ce-7c88-49bf-b29e-4f5c372fb52d,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Pressure,LOW,,,,,Offshore Platform 1,Valve,synthetic
+6b70a4b3-76f8-4f74-957b-278628d24299,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Unit B,Heat Exchanger,synthetic
+392f547d-70df-4bab-8d9d-d52666f8ac5e,"During maintenance of the Electrical Panel at Offshore Platform 1, the technician started work without isolating the equipment. The Electrical Panel was still energized.",Unsafe Act,YES,Pressure,CRITICAL,,,,,Offshore Platform 1,Electrical Panel,synthetic
+51a48ac3-fdf9-41b8-b633-aac614aac67c,"During maintenance of the Electrical Panel at Offshore Platform 1, the technician started work without isolating the equipment. The Electrical Panel was still energized.",Unsafe Act,YES,Pressure,CRITICAL,,,,,Offshore Platform 1,Electrical Panel,synthetic
+fc556a5e-3987-40c5-aadb-81984da41fd0,Small oil spill near Compressor at Unit B. Cleaned up promptly.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit B,Compressor,synthetic
+af18638f-1a02-4f79-8235-282768cb32d3,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+55291c43-36c7-4d97-9c8c-7cd224aeb846,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+20346a42-09aa-4aed-bc30-043fa613fbe2,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit B,Pump,synthetic
+4178a411-5ce1-4a0f-86f9-285e9c34d07c,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit B,Pump,synthetic
+269619e7-7375-4e2a-9c2b-77b556001788,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+e99498e1-dca1-4f4c-a53b-e3625da7adfa,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+d18bb8a4-c60b-418c-b337-bf912cd8e49d,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Unit A,Electrical Panel,synthetic
+18c40de1-9ae7-4aa2-8ce7-e922378487bd,Small oil spill near Compressor at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+03b8265f-cc1d-4919-bb4e-368028bcb053,Small oil spill near Pump at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Pressure,LOW,,,,,Offshore Platform 1,Pump,synthetic
+2ecfa549-e3fb-469f-9796-8b743ceb35c0,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+e9039978-fa65-4107-9fe6-df7295ce9366,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+131b0e41-79bf-44f2-92b0-f7523e2c5bb6,Small oil spill near Valve at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+6d3154b4-5d61-43c9-9ecb-afda0de2f880,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+50884e94-6ab1-496a-b95b-c9bc96aa185b,Small oil spill near Compressor at Unit A. Cleaned up promptly.,Unsafe Act,NO,Confined Space,LOW,,,,,Unit A,Compressor,synthetic
+ebe116ff-5a9e-48ef-a7f3-08eb4b792823,Small oil spill near Valve at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Electrical,LOW,,,,,Offshore Platform 1,Valve,synthetic
+9bbbd49a-e8cc-4041-9d84-8a9742c79341,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+c3ff80be-fda6-4c47-91e9-f5610c63f7e2,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Confined Space,LOW,,,,,Refinery Sector 4,Valve,synthetic
+6cd8474a-f184-4a22-8c3c-b73bf9e4e912,Small oil spill near Compressor at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Electrical,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+4c3dfd80-7bdf-4587-8ae1-7d3dc02700b3,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+00c179bd-90db-4c25-a71c-43b634162fc9,Small oil spill near Heat Exchanger at Unit B. Cleaned up promptly.,Unsafe Act,NO,Pressure,LOW,,,,,Unit B,Heat Exchanger,synthetic
+abeecfb1-853b-44f5-b6b1-8bd6758663cf,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit A,Compressor,synthetic
+5227b799-9ad1-4ccb-afae-3097c0b7729e,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+76cb2d60-76d8-43fc-b4bc-705bca322ef6,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Unit B,Heat Exchanger,synthetic
+af2a8fbe-3ba7-47e8-aa12-43f3acd40ab6,"While working at Offshore Platform 1, worker was at height without fall protection. Serious risk of fatal fall.",Near Miss,YES,Pressure,CRITICAL,,,,,Offshore Platform 1,Electrical Panel,synthetic
+a7844d77-aafb-4f48-a3b9-2a5a9b4a1f6e,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+15f6b1b0-257f-4a59-83fd-bc4a9d7b97c9,"During maintenance of the Heat Exchanger at Unit A, the technician started work without isolating the equipment. The Heat Exchanger was still energized.",Unsafe Act,YES,Pressure,CRITICAL,,,,,Unit A,Heat Exchanger,synthetic
+7872ab95-143a-4205-b353-b879678d3632,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit B,Electrical Panel,synthetic
+4c7f1e9e-fc06-409d-bd54-e982ae2bb887,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Unit A,Pump,synthetic
+8ef20af7-23df-49c8-9da6-1b881770f4dc,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit A,Heat Exchanger,synthetic
+6233afe4-3271-4099-b9c5-bc0a899fdab1,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+b08916bb-802c-4776-ab24-86b59e54795b,Small oil spill near Pump at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Manual Handling,LOW,,,,,Refinery Sector 4,Pump,synthetic
+5c512b5c-e61b-45b2-b5d2-db519ba20582,Small oil spill near Valve at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+24920721-2313-48bc-9508-d7ec42373238,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+a1f2cef7-55fd-4d69-93bf-fe9eb55ab4eb,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+ffbb0231-0c5f-4cf0-abf8-9609da375ae3,Small oil spill near Compressor at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Confined Space,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+e2b12e21-3130-4d8e-9dc2-bd75aa047a2b,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Working at Height,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+582989e6-7441-441b-8282-51a4a2fa9314,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+3e3a78cb-ac8b-4ddc-ba0e-f95e7e9f185f,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+67540ff3-7618-4fd2-be82-c099d2ea2e25,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+0ec62c77-979b-4390-b355-14f2f92d817b,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Unit B,Compressor,synthetic
+e7e226c8-e036-4b8d-9d2f-a3fe232bf28a,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+33e0d8a9-e0a1-4049-8c7c-eedd54127896,Small oil spill near Electrical Panel at Unit A. Cleaned up promptly.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+105d4dfa-1304-449e-8ede-70534b1345df,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Working at Height,LOW,,,,,Unit A,Valve,synthetic
+2412a638-d453-425e-bc55-834c4ad54a98,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Electrical Panel,synthetic
+bfec8f22-c0e7-4710-92bc-acd2b400f303,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+a2b6e5af-372b-4809-8867-02ab86ef7abe,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit A,Valve,synthetic
+0e83c275-4ec8-4b4e-a212-7560ca237cc9,Small oil spill near Compressor at Unit A. Cleaned up promptly.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit A,Compressor,synthetic
+993954de-7084-423f-aa2f-01a640cbe41f,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Pump,synthetic
+26beaf9f-fbf9-43eb-9fbb-2d3f24f322ae,Small oil spill near Compressor at Unit B. Cleaned up promptly.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Unit B,Compressor,synthetic
+8351a0bd-4abb-44d8-b661-d5f6adf8def3,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit B,Valve,synthetic
+88ab3ae3-51a3-4f51-a416-4f8ad6d9bd41,Small oil spill near Compressor at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Working at Height,LOW,,,,,Unit A,Compressor,synthetic
+5cbe853b-c3e3-4f8e-bd50-c1cee416f5dc,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Unit A,Valve,synthetic
+eec2e99a-d9e3-44cf-bec8-9f86a7606d4c,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+a42fd694-9043-4bca-8e8a-810b72e08d05,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Unit B,Pump,synthetic
+000a1461-781c-4859-aa50-3889a6585853,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Electrical,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+7ed72214-1e46-44c0-8b8d-f877b1494e77,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+f31b9d91-8719-468e-90db-58e2955594f4,Small oil spill near Heat Exchanger at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+999ecf9d-aee9-42a6-98ce-9b0c83943db9,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Working at Height,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+da486629-fc71-43db-9d79-ec9720d701a8,,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+e7f027ab-96a7-4732-a5ee-8c047c99a393,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+42dbc118-a8fd-4815-a5d4-93cfb8192006,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Working at Height,LOW,,,,,Unit B,Electrical Panel,synthetic
+c79f0fbe-750a-4642-8bb4-ee8c39e501bf,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+4662282b-53a4-43b3-9871-4d48a9f0ee6d,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Unit A,Heat Exchanger,synthetic
+b3702027-4184-4994-b6ca-649716c2e4f2,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+6f26d1d6-aa25-4a9e-9a19-0119c9a90208,Small oil spill near Pump at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Working at Height,LOW,,,,,Refinery Sector 4,Pump,synthetic
+9b0cc74e-2ae6-4950-9f85-5d64bae61653,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+30762e14-057e-4cda-b4e9-6ad8541815bd,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,LOW,,,,,Unit A,Valve,synthetic
+3cd153e3-9477-4ee6-a448-7b0b5aa03fda,Small oil spill near Heat Exchanger at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+99d171f3-d6e7-4e1f-88fe-2c6a97a78cd8,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Working at Height,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+feb57678-034e-46ea-9d6b-4dc2c01ee16a,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+4842bf0b-2b8a-444b-9f7c-bc4e449be04d,Small oil spill near Electrical Panel at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+620ca75f-08d8-4565-bdae-442954eac792,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+356f00ac-3c91-43c8-b9eb-21d4cd8c89d8,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Electrical,LOW,,,,,Refinery Sector 4,Pump,synthetic
+b8fe9070-63cc-41fa-9341-9f00e486d043,Small oil spill near Electrical Panel at Unit A. Cleaned up promptly.,Unsafe Act,NO,Confined Space,LOW,,,,,Unit A,Electrical Panel,synthetic
+06547111-af2f-4f67-b7a0-e4d840f6e3c7,Small oil spill near Heat Exchanger at Unit A. Cleaned up promptly.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+e3582583-df69-4200-ab78-a16ad416d6cc,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+c1982145-921f-4ba8-9dd6-9c8cfa08bf3e,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Electrical,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+44d722cf-38ba-4784-a984-26704289b213,Small oil spill near Valve at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit A,Valve,synthetic
+6f334fca-e6bc-45ce-98db-eeb0f6f7ebeb,Small oil spill near Electrical Panel at Unit B. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Unit B,Electrical Panel,synthetic
+41ca80fa-507a-4154-bcdc-f1db5fc23d9a,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+9b555705-549c-4b7c-9c7b-b83cb2f22fbb,Small oil spill near Compressor at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+494cf78c-aede-4089-81db-8afeb9dc0a83,Small oil spill near Compressor at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+73f47573-b2fd-4401-857a-7c6375ca1413,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+8a20f480-95e9-4de9-b67c-ba17cf39cef4,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Pump,synthetic
+08d44bc1-ee65-4d1e-83de-42a2794df5ca,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit B,Valve,synthetic
+1c066d54-2db9-4196-9a72-e1c758415649,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit B,Valve,synthetic
+1aa1cb56-06df-48b4-899e-49566c353cf3,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Unit A,Electrical Panel,synthetic
+154997a1-aa17-4772-875e-18227cba3374,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit B,Valve,synthetic
+b460db54-0a22-4967-a06d-cdd07cf40e5a,Small oil spill near Valve at Unit A. Cleaned up promptly.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Unit A,Valve,synthetic
+6515bf61-2668-4d7f-9aec-ebea45b737c8,Small oil spill near Valve at Unit B. Cleaned up promptly.,Unsafe Act,NO,Working at Height,LOW,,,,,Unit B,Valve,synthetic
+166fc8ac-2a63-4c16-8d3c-645c55cc60d7,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+87c773d1-2b58-46f6-98c7-d63845c32add,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Act,NO,Confined Space,LOW,,,,,Unit A,Compressor,synthetic
+c0ecb46f-37b1-4b98-833f-ff3b8a80288e,"During maintenance of the Electrical Panel at Unit B, the technician started work without isolating the equipment. The Electrical Panel was still energized.",Unsafe Act,YES,Confined Space,CRITICAL,,,,,Unit B,Electrical Panel,synthetic
+27aee7cb-40d1-446e-9e7b-268fcbcdbea6,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+97439366-3362-46ab-93b1-b854dc3ab865,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+209aa4fc-dad2-45b3-a7ff-0c67797a215a,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+99158ade-c4eb-4cfb-a866-22efc4725e83,Line opened with residual pressure on the Electrical Panel. High-energy release narrowly missed the operator.,Unsafe Act,YES,Pressure,HIGH,,,,,Refinery Sector 4,Electrical Panel,synthetic
+e07b7af9-55fa-467c-827c-fffb4c7f0ab8,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+8f9d0892-4499-483e-931a-d015644f5a9a,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Pressure,LOW,,,,,Unit B,Electrical Panel,synthetic
+117ba9bf-2818-4d51-9326-c194c13cadf5,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Confined Space,LOW,,,,,Unit B,Compressor,synthetic
+f7d65764-3b4d-4eb9-8ee3-65e50b156e3f,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Unit A,Pump,synthetic
+e14308d1-a8b2-4db9-a00e-331dd85a105a,Small oil spill near Electrical Panel at Unit A. Cleaned up promptly.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+799b2282-a20f-430e-b303-1651a50c6dab,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Pressure,LOW,,,,,Unit A,Pump,synthetic
+40effbef-76e4-4769-aa18-ea3f319137c4,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+6e158fdb-6821-43df-a1c1-50e83c7f76fc,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit A,Compressor,synthetic
+e22aa95a-8cfd-40ce-ab7f-a71e2eba034c,Small oil spill near Pump at Unit B. Cleaned up promptly.,Unsafe Act,NO,Working at Height,LOW,,,,,Unit B,Pump,synthetic
+88fdfd1d-464c-4749-8a7b-6391b50f831d,Small oil spill near Compressor at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Unit B,Compressor,synthetic
+bf87924f-74ea-42d8-9410-8158879b25ad,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Electrical,LOW,,,,,Unit B,Heat Exchanger,synthetic
+09a51a34-629c-4464-8bf5-afe0e0a33d56,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+d81c03b6-c442-436d-8c89-e99fb6f4be18,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Confined Space,LOW,,,,,Unit A,Compressor,synthetic
+ed9c0ed8-7c97-4c87-857e-ef7822fab538,Small oil spill near Valve at Unit B. Cleaned up promptly.,Unsafe Act,NO,Pressure,LOW,,,,,Unit B,Valve,synthetic
+23b51a9c-a3fb-43e5-98c5-f9d79915abaf,Small oil spill near Electrical Panel at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Electrical Panel,synthetic
+08190a43-aeca-4fe5-9a40-9aface529b45,Small oil spill near Valve at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+3d524395-033c-422b-ac84-36aebfb73178,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit A,Pump,synthetic
+07e6c954-4af9-4ce4-9d7f-76e8147d4f8c,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+a07faee5-4e65-4e3d-8e85-301793a40051,Small oil spill near Valve at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Offshore Platform 1,Valve,synthetic
+bf565c24-e50a-456d-a877-9843a71627a1,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+dfe71124-5e10-40e9-b509-5ddf8f928623,Small oil spill near Electrical Panel at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit A,Electrical Panel,synthetic
+f8349120-45cb-4012-8208-17cf90be6b0d,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+d780b99c-e92b-4afb-addc-731c12be6d5f,Small oil spill near Heat Exchanger at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+d6e5933e-a8e6-4d01-87af-05a6bba438d6,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+7a3a17d3-9d83-445b-b10f-795bc3385904,Small oil spill near Valve at Unit B. Cleaned up promptly.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit B,Valve,synthetic
+62566d8b-1fe6-4df0-984c-a82faddec709,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit A,Valve,synthetic
+dee4a86f-9464-4af9-a825-adac1d159a00,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit A,Valve,synthetic
+dff2579a-fe17-4248-9661-1d6e852e1aab,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit B,Pump,synthetic
+3474eb05-a18e-42cf-8a14-6d3806c310a8,Small oil spill near Electrical Panel at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Unit B,Electrical Panel,synthetic
+bf43e64d-3b5c-4415-b45d-cd1439e303c8,Small oil spill near Heat Exchanger at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+6eeebcd6-6a5f-4e2d-b540-1e396f3be123,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Unit B,Pump,synthetic
+7005118b-22d7-4b55-a78d-d58248b3ed3d,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+a610ac89-e467-4b98-b0a4-89296810c6dd,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+deac4fb6-255d-4935-8368-baabc80bf383,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+190e8a33-c212-40e0-987a-0889180edcb5,Small oil spill near Electrical Panel at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+f1a01f20-55c6-4d5a-ab26-89d9e03dde57,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit B,Electrical Panel,synthetic
+2e6a96f0-7a41-44d2-96ae-9076c1acfde8,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit A,Valve,synthetic
+35b3b916-b5b5-4397-a1c3-8e9125481caa,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Unit A,Compressor,synthetic
+8f618f3c-7e4e-4fe5-aa82-30b59d0e6fe6,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Unit A,Valve,synthetic
+995c4a6a-cd8b-487e-b7f6-3c1655ee1b6f,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Act,NO,Pressure,LOW,,,,,Unit A,Compressor,synthetic
+cfd7c5c4-4f08-4b20-b17d-4bfcf515cb5e,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit A,Heat Exchanger,synthetic
+4ec1d2d7-5714-4be7-8c36-43b7168e28c3,Small oil spill near Heat Exchanger at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+7945a3ac-404f-4040-9720-a8561070a0f2,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Unit A,Pump,synthetic
+9cf0abb0-d53e-47d6-a9ab-420f88a4288a,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+2345ce0b-1b1e-4eba-a205-ffda63811fed,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+0bb35bc0-ed7a-4624-95c9-7a9929267e7b,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit B,Electrical Panel,synthetic
+f244c54d-284d-4066-b33f-3847447cfab6,Small oil spill near Electrical Panel at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+30064f74-6138-4a2d-b3e3-f68db5edadbc,Small oil spill near Compressor at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit A,Compressor,synthetic
+d33f08ff-7a0e-43e9-8b56-bfb02eda5c3f,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+4a9b4ff1-a786-4ad7-aeef-e1586e528316,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+47b20f95-0274-48c9-b9d0-d2005bdbff20,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+6fda2961-34f0-404c-a561-277f74b2490c,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit A,Pump,synthetic
+0f627a18-7a50-45d7-9e27-f7d313320d3f,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+aa59a520-e540-4959-b928-2464b74a4e1f,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Pressure,LOW,,,,,Offshore Platform 1,Pump,synthetic
+ae3d157f-1ed3-4bcd-a969-7cedb2c6aff7,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Pressure,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+400e6e6e-f6cf-4ecc-a8e1-c94fb0fa34f4,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Electrical,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+3c16758b-4f49-4294-8e69-f992675c6f65,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Unit A,Electrical Panel,synthetic
+0b0a1ea9-37ab-4ebd-9eaa-fbf4a0439622,Small oil spill near Valve at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit A,Valve,synthetic
+4a94e5e8-6ad7-470c-b6b8-69dcfce09155,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Unit A,Electrical Panel,synthetic
+ce8c0a97-4e7d-410b-81f3-58e36dadb4d1,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Unit A,Valve,synthetic
+361fe645-79fc-4e19-b407-f43d618866aa,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+374a8524-51f7-40e6-816b-c588d2878b51,,Unsafe Condition,NO,Pressure,LOW,,,,,Unit B,Heat Exchanger,synthetic
+39cb7554-ab70-4d55-b6a7-5f195a99ee3e,<div><p>Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.</p></div>,Unsafe Act,NO,Manual Handling,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+cd57870e-dd3f-48e4-bbb4-771ba75b2da3,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+ec75e92a-94e5-4c34-bb8f-61984ccfd31d,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit A,Valve,synthetic
+88a7af8f-121a-45bc-baa8-8dbd6b6c2c26,Line opened with residual pressure on the Heat Exchanger. High-energy release narrowly missed the operator.,Near Miss,YES,Confined Space,HIGH,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+eee4556f-d0ea-4609-9cd8-7688b78cd3f6,,Unsafe Act,NO,Electrical,LOW,,,,,Unit B,Valve,synthetic
+d6856cd4-4cbc-41a4-a2b7-7a742776181a,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+0b33507a-7885-4677-b013-13b3f37e7e54,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+7dc2e73b-3e8e-46c1-ab13-9db8af83f7bb,,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+b60fc2fe-ff96-4a15-b579-f08667b0c25f,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+7207d121-f346-434e-891d-3ca167a76400,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Pressure,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+e6588001-d5cb-4eea-a7ac-0821803339fd,Worker entered the confined space at Refinery Sector 4 without conducting a gas test. No standby person was present.,Unsafe Act,YES,Working at Height,HIGH,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+d468bcb6-b01a-4cc9-a3b6-1bc01e89d345,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Unit B,Pump,synthetic
+6785cf7d-02e1-486f-8a28-1e139748ff26,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Act,NO,Electrical,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+f66460a2-4f83-461b-a0cf-c960969c516d,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+a11edd94-faa3-4211-bd59-5cadb306e803,Small oil spill near Heat Exchanger at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+74408a39-c79e-4e08-81de-5e4ba929464d,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Working at Height,LOW,,,,,Offshore Platform 1,Valve,synthetic
+50aaea4c-cc88-4b1f-a298-a4f271cc3517,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit B,Valve,synthetic
+eb789032-9e55-45c3-b63c-c451fc09c4af,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+71c57705-90ea-4b07-8eae-04ea6a553864,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+ce89a2ca-ec57-4392-a13b-4ef8f4716c20,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Working at Height,LOW,,,,,Unit B,Electrical Panel,synthetic
+1a53a649-790f-4ecd-a17e-1e69616fa73c,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Working at Height,LOW,,,,,Refinery Sector 4,Pump,synthetic
+b9cda474-abdb-4516-9557-445872c5205d,Small oil spill near Pump at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Pump,synthetic
+c773a849-cca1-406f-8bba-fa32a60473f9,Small oil spill near Valve at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit A,Valve,synthetic
+4c8eca63-782e-40f1-a6e6-0fd3478c9ddd,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Unit B,Compressor,synthetic
+eb60b4c2-cc8b-4828-ae91-2fcf390b399a,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+a5e27839-dca3-480f-b65d-13fb27f13530,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Pump,synthetic
+4e3f6ae3-15c6-4cfa-b164-fc8742321632,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+0b6c2f67-6993-4b1e-aed2-e6e39e266056,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+9a39d24c-10b7-492e-a297-c1784b3ba6fc,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+a785e3d7-3c64-4e39-a1e7-d8d7fe3a9c21,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Confined Space,LOW,,,,,Refinery Sector 4,Electrical Panel,synthetic
+7d1b6d93-f048-4171-a51a-eee99abad2b0,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Unit A,Valve,synthetic
+1e52c3f6-7a9b-4551-9cd9-7a43a9955538,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Pump,synthetic
+3400dd37-7cc2-4a7d-a5cf-b88aae336238,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Confined Space,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+16c4b3a3-7c0a-40cb-949c-fd3f49d251ad,"During maintenance of the Valve at Unit A, the technician started work without isolating the equipment. The Valve was still energized.",Unsafe Act,YES,Confined Space,HIGH,,,,,Unit A,Valve,synthetic
+43786b39-dad4-415d-a758-82c050399d42,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Working at Height,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+2812405a-9bf0-435e-bd06-c5d7744f981d,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Working at Height,LOW,,,,,Refinery Sector 4,Pump,synthetic
+426147fb-da9d-45ee-b6f0-abb4a6e05740,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Offshore Platform 1,Valve,synthetic
+cfd1be24-4777-499e-8a45-f9d00d8cf5cf,Worker entered the confined space at Offshore Platform 1 without conducting a gas test. No standby person was present.,Near Miss,YES,Working at Height,HIGH,,,,,Offshore Platform 1,Valve,synthetic
+88ae99a9-52f4-4d24-bd7b-1f97fb1f57cd,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+45f20547-b832-4e77-a36c-6dd5743c6630,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+8de6ef9c-5d75-4a69-b40d-f756b7bba1cc,Small oil spill near Heat Exchanger at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+8423bcb6-95ee-47e1-bc8d-97b5ac06af0a,Small oil spill near Pump at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Pump,synthetic
+605bd7bb-5f1b-4da5-9cda-9a42468dbc84,"During maintenance of the Electrical Panel at Unit B, the technician started work without isolating the equipment. The Electrical Panel was still energized.",Near Miss,YES,Energy Isolation,CRITICAL,,,,,Unit B,Electrical Panel,synthetic
+4c8371ad-dd78-4e57-86ba-d3c853adcce2,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+471006b9-40e5-401f-8639-7b9088c86c77,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Electrical,LOW,,,,,Refinery Sector 4,Valve,synthetic
+4bfb8451-d970-40b8-8842-d03e30c64073,"While working at Refinery Sector 4, worker was at height without fall protection. Serious risk of fatal fall.",Unsafe Act,YES,Working at Height,CRITICAL,,,,,Refinery Sector 4,Valve,synthetic
+d443b70e-1786-4638-b4a0-f4f80f17f24f,Small oil spill near Compressor at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Unit B,Compressor,synthetic
+1b2fb67e-f00b-49a6-bfeb-3a46b7d65b6e,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Electrical,LOW,,,,,Refinery Sector 4,Valve,synthetic
+d7c8809b-7065-4e1b-83c5-3bc1430370ec,<div><p>Trip hazard due to loose cables near Valve. Cables were immediately organized.</p></div>,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Unit A,Valve,synthetic
+8b94ebad-d470-4d46-9668-f8e9937e50c3,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+c5950614-7f0d-408b-881f-d699c34196f0,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+59c3af8c-8b1c-48b4-858a-c3295a61050f,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Unit B,Compressor,synthetic
+2ef16985-05e6-42bd-b6a2-85a571fadf61,,Unsafe Act,NO,Energy Isolation,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+1bc4fb5b-c6c4-4c9c-9b56-46d74bbb1577,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+cabbea5d-871f-4907-a832-e5a8ca13d018,Small oil spill near Heat Exchanger at Unit B. Cleaned up promptly.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit B,Heat Exchanger,synthetic
+adb25897-d84c-454e-b5fe-2749bc8dabc7,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+f620d76a-78d3-47fe-a46f-fce01bce227a,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Electrical,LOW,,,,,Unit A,Heat Exchanger,synthetic
+9ee51b90-8afc-48c2-9e54-859317040986,Small oil spill near Compressor at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Pressure,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+4831f27c-74ac-4545-99b9-f873afe1ba10,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Working at Height,LOW,,,,,Unit A,Valve,synthetic
+f6bc7dd0-47df-4eda-b9e3-09ab773ec3bd,<div><p>Trip hazard due to loose cables near Compressor. Cables were immediately organized.</p></div>,Unsafe Act,NO,Pressure,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+6c8c35fb-ab8c-474a-b585-461c467a09d9,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+c51647e5-ee38-4e0e-9bc3-5039a75fa692,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+ad9e16e6-957c-4222-8c6f-14637ba4bde2,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Electrical,LOW,,,,,Unit B,Electrical Panel,synthetic
+1c0df29e-d9cc-485b-83ed-247c05ebbdec,Small oil spill near Electrical Panel at Unit B. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Unit B,Electrical Panel,synthetic
+b5ec1769-e274-4026-8d84-ad54d7378b0b,"While working at Offshore Platform 1, worker was at height without fall protection. Serious risk of fatal fall.",Unsafe Act,YES,Energy Isolation,HIGH,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+02e91602-49d7-466e-a038-a0be73bce0ee,Small oil spill near Compressor at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit B,Compressor,synthetic
+f2be8238-1400-4447-9d35-a64df10f2750,Small oil spill near Electrical Panel at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Unit B,Electrical Panel,synthetic
+1cbc9b3a-92a8-4780-af29-a50121eb9be1,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Unit A,Pump,synthetic
+9dc65c42-e38b-48d3-b322-da868b5844e7,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit B,Valve,synthetic
+d1442054-b8bc-44d7-99c1-8b8c80059c45,,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit B,Electrical Panel,synthetic
+bb324aff-b8ac-4d8f-ab47-3a1f339f5d37,Small oil spill near Valve at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Unit B,Valve,synthetic
+695690e0-10a1-4798-8a48-293c68fc8ca6,Small oil spill near Valve at Unit B. Cleaned up promptly.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit B,Valve,synthetic
+fa22264f-c47d-4009-97e3-402febcfcd94,Small oil spill near Valve at Unit B. Cleaned up promptly.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit B,Valve,synthetic
+d4f39bcf-b192-4a3f-9d82-db9fa2bcbe11,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+23c5abf6-12c2-4952-9f69-8e6fb7fe872c,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+991698c5-59fa-4b73-a693-708e62d5390e,Small oil spill near Compressor at Unit B. Cleaned up promptly.,Unsafe Act,NO,Pressure,LOW,,,,,Unit B,Compressor,synthetic
+ce3f48e2-cf6a-4708-9959-19a4ce01ef00,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+cd6e164a-b622-47ad-a293-78f16455548b,Small oil spill near Valve at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+9a7d1051-a789-4a1b-a5fd-40827fcb612b,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Pump,synthetic
+9491f65f-7285-4348-a660-9d6386d4f0eb,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Confined Space,LOW,,,,,Unit B,Pump,synthetic
+98869f13-8503-41ce-beb4-48a1ec42e8fc,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Unit B,Valve,synthetic
+7ae88f59-b216-4cf0-83b0-7886382e3863,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+7d5be54e-37c3-4b75-ae6c-4a778bb20db5,Small oil spill near Valve at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Working at Height,LOW,,,,,Refinery Sector 4,Valve,synthetic
+872d3b1e-ff68-4a34-8482-7c5e114017f8,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+3db4e638-cf02-4bfb-a5ce-d33a65c4554f,Small oil spill near Valve at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+930c3977-b676-4654-93a1-b8257fa29316,Small oil spill near Compressor at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Working at Height,LOW,,,,,Unit A,Compressor,synthetic
+394a61ee-345a-40cc-8f59-d1164bbf997b,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+40e81a0a-5d0c-4c01-91e3-18ad23ee670e,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Pressure,LOW,,,,,Unit B,Heat Exchanger,synthetic
+e86704ac-af8c-49a8-836d-6488b57a1203,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+8fabee5e-6f59-4fe0-9b67-a86810f57f6b,Small oil spill near Compressor at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+f656fbba-01d0-4c69-861a-5db5fbb7ee37,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Working at Height,LOW,,,,,Unit B,Compressor,synthetic
+93961e13-92fd-4051-b2b1-85c0992b1bb8,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+66678d3d-4240-46b3-9322-42ebcc008cba,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit B,Compressor,synthetic
+37e7193d-b0c6-47bf-abaa-f9b3c112890e,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+a9e66c68-8918-4b45-a61e-ae1da564868f,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Unit A,Electrical Panel,synthetic
+3a931186-364e-4490-a7b0-522c2e81c8fd,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit B,Compressor,synthetic
+5d35fd37-8d62-4d81-92cd-602b66b8a12d,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Electrical,LOW,,,,,Refinery Sector 4,Valve,synthetic
+d69dce61-abec-4341-b135-af9643070642,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+9306f1e3-d3ad-438e-ac6d-b1d1e03ee39c,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+9e4dbff6-edfc-444c-b1b4-ba90cac9968c,Small oil spill near Heat Exchanger at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+c2ca1fbf-70e3-4ef3-b08a-aaa4e9a5916e,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+249e99f5-50d4-49b8-a669-69dc20a3a3a1,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Unit A,Heat Exchanger,synthetic
+5cce1064-35b1-4513-8232-4e972208b088,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Electrical,LOW,,,,,Unit A,Valve,synthetic
+aff8b6c5-86e0-49a5-b1ed-287f507330bd,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Unit B,Compressor,synthetic
+4315acc7-05a1-425e-8992-6795e6ed49f8,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+e6c03e41-9566-48fc-8fca-2b65483a15cd,<div><p>Trip hazard due to loose cables near Pump. Cables were immediately organized.</p></div>,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Pump,synthetic
+f41f6c1b-f340-44b9-bfc8-3f10a063b4d0,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+da474110-ab4e-473b-9c0e-3eb94c15c4e3,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Unit B,Electrical Panel,synthetic
+3da4d2ac-28a8-457e-9773-822ec71a4701,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+1a61f9e3-a664-4421-9e67-95b33fd4b830,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit A,Pump,synthetic
+9298469c-1055-4f79-aeaa-ebf2948a5609,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+858883a0-7a46-44a7-a3ec-a99841c2b48c,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Unit B,Valve,synthetic
+690a8c84-9c67-4a97-814f-3aa8896f7007,Small oil spill near Pump at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+e8681ad5-f7ef-4f23-b433-5e92fe09ca57,Small oil spill near Pump at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Pump,synthetic
+451e6795-2a31-473e-8258-7425ae98c3a2,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+4c860dea-f9a4-49ee-91f6-22b882812798,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Confined Space,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+83ee00c5-5d59-4dbd-a220-95010ef30fce,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Confined Space,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+60c8b5e3-8694-40e3-ac72-7e9956245538,Small oil spill near Pump at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit A,Pump,synthetic
+94cf5ea8-e7fd-40c8-bbcd-3f591d528ed7,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+5b3556f3-3422-49a0-a088-08f21adc0199,<div><p>Small oil spill near Electrical Panel at Refinery Sector 4. Cleaned up promptly.</p></div>,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+d2610e06-3d43-47ab-a99f-d16df95db6e4,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Condition,NO,Electrical,LOW,,,,,Refinery Sector 4,Electrical Panel,synthetic
+06e23a16-15b1-41d5-b443-b9978d642aa8,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Pressure,LOW,,,,,Refinery Sector 4,Valve,synthetic
+eb67267a-49aa-4ad5-8732-c4c1ef9ae785,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Electrical,LOW,,,,,Unit A,Electrical Panel,synthetic
+16ba3829-c3b5-4af6-97c2-ed0d96bf0045,Small oil spill near Electrical Panel at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+d82372eb-8b8f-408d-9c84-6ce4a94e2e60,Small oil spill near Valve at Unit B. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Unit B,Valve,synthetic
+9e7b1116-4bf1-4789-b521-a8d68a761052,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+00f01aab-4023-4e35-9437-4c6b70be0255,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+6f721aa1-83e6-4d93-85a8-3ec5be1f1de0,<div><p>Line opened with residual pressure on the Heat Exchanger. High-energy release narrowly missed the operator.</p></div>,Near Miss,YES,Energy Isolation,CRITICAL,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+6b2fccc6-c452-4434-8e61-452b778a3313,<div><p>Line opened with residual pressure on the Heat Exchanger. High-energy release narrowly missed the operator.</p></div>,Near Miss,YES,Energy Isolation,CRITICAL,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+cc62fcdd-bea1-45e2-91dc-071d439e897e,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Unit A,Compressor,synthetic
+bd5aed0b-6825-42a6-9b49-99c05cac718a,Small oil spill near Electrical Panel at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+33a8309d-8393-4319-aed5-49040e77b9e2,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+a73d251d-134c-4dd7-b54f-21d1efe67fec,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+672fbebb-9b50-49d3-9521-5ffffa36b663,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+abb3e368-e49d-405b-8fe6-7c3cee6a6a8d,Small oil spill near Pump at Unit B. Cleaned up promptly.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit B,Pump,synthetic
+5aca3a90-978f-4f64-ba10-24e04a2203dc,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+ae281185-3250-4146-966a-e9d615c7dc4f,Small oil spill near Electrical Panel at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Electrical,LOW,,,,,Unit A,Electrical Panel,synthetic
+983fa579-842e-4407-8237-f803863a998c,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Unit A,Heat Exchanger,synthetic
+e7e50716-5094-4d76-a66d-81a6913c0f46,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Unit A,Heat Exchanger,synthetic
+82b1c1b4-a0ae-48cb-a8b6-b05e090b2c4b,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+6c2777bb-fc0f-457a-8ed6-bd4b21121327,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit B,Electrical Panel,synthetic
+c7d90327-c3a0-46ca-9930-6239151578e1,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Pump,synthetic
+c7611d44-fb0b-4f9c-bb52-80d215e890b2,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Unit A,Compressor,synthetic
+099c1e95-8341-42e1-a457-eb3e16a07d73,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+4e8b52f6-7d15-4232-9765-96991ae5f4c0,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+36d0c415-9149-45eb-a9e3-d0133a99b026,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Valve,synthetic
+fef41a4e-6522-4ba7-afbd-0125a30455b7,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+6d74164c-e89f-4795-9405-7d3329068571,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+82aaee63-805a-404f-8a4e-e8280d042a3f,Small oil spill near Compressor at Unit A. Cleaned up promptly.,Unsafe Act,NO,Confined Space,LOW,,,,,Unit A,Compressor,synthetic
+1f27fe18-91f6-4795-af48-cf9bd2192055,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit A,Valve,synthetic
+700c3ee0-3790-4dce-b0b3-3a3be2fccadf,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+8caebe28-57de-4d51-abc2-f93e66115c06,"While working at Unit A, worker was at height without fall protection. Serious risk of fatal fall.",Near Miss,YES,Energy Isolation,CRITICAL,,,,,Unit A,Valve,synthetic
+d3c2dc96-e470-4ecb-b357-fd64080ef1f8,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Working at Height,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+35ed8d27-dc72-43fd-83e4-d85328618d47,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,LOW,,,,,Unit B,Electrical Panel,synthetic
+b4afec94-8948-44c9-928f-cf2d6224625b,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Unit B,Valve,synthetic
+69691a2c-09fc-42c4-b102-fa6d02dd1dac,Small oil spill near Compressor at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Unit A,Compressor,synthetic
+41c32c0b-304d-4c92-8600-c87a0ece8834,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+75a30f97-9b68-4f56-87c8-05a89eba44b4,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Offshore Platform 1,Valve,synthetic
+730af086-0567-487c-be86-b1bd5ff37a7b,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Unit A,Compressor,synthetic
+1540ca74-e013-4962-94aa-73b0c05ff467,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+f89a00fd-2f2d-49d4-97b1-952928d1182f,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Pump,synthetic
+b223e4b3-8d87-4d9f-8d27-d9a6a9e832e4,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Electrical,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+93359f4e-632c-4792-8231-92bfb2b17390,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+b9acda77-5938-4c91-83ac-a52e1faf4261,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit B,Electrical Panel,synthetic
+9b2dc28f-93c4-47bc-89c8-767bccb05cd7,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Confined Space,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+b47ed1c1-5146-418c-ba34-7b9d38b0e866,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Unit B,Valve,synthetic
+d94e62e3-76e7-41ca-9521-7d2c29138105,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+861c6170-822b-499a-9e1d-80b056fda62e,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+7fb0d31b-32fd-447b-9282-2add2f113829,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+aa16bbf2-df68-4428-99c3-a1b7005146cd,Small oil spill near Electrical Panel at Unit A. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Unit A,Electrical Panel,synthetic
+b91898be-8005-49e4-abd6-e64484dd6495,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+2b55dadf-f391-42d0-bc1a-6d439234b667,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Unit A,Pump,synthetic
+67890046-8927-4bfd-8363-5c9231ab8996,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Electrical,LOW,,,,,Offshore Platform 1,Valve,synthetic
+b5382f2d-8719-4253-8e6a-286e0af80c8e,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Pump,synthetic
+c61684a2-acf5-4fc0-b9a1-5c83efe943e7,Small oil spill near Heat Exchanger at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+bf905658-7e86-4a71-aa38-7c74a36a918f,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit A,Valve,synthetic
+21994492-b5b1-407b-bec8-76476bf01156,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+45dd9044-1cdb-4480-9ccf-0512cda0fd85,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Act,NO,Confined Space,LOW,,,,,Refinery Sector 4,Pump,synthetic
+42364556-c7b6-4feb-8d96-ba02cdd2bcfe,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+f847ff47-aa5a-4226-80a5-71b34f530660,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+f7e2d226-db01-4638-b014-64f36a242a62,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Pump,synthetic
+d4b85a1f-b074-427c-ab9c-4129ef9ef6bf,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+3fbd384d-87e5-4fbb-8d4f-1c853ed6b497,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+5ddc5da6-c0e8-4721-afc2-0ce399124683,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+7e6ac4cd-f56f-4a94-a085-380854c3cb38,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+b6ff9698-b0c0-40ed-881b-d25e2cc2fc1e,Small oil spill near Heat Exchanger at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+ae8920bb-c581-4f8d-89f2-e4079b4edd93,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+7ab22b16-07df-46c0-b3ae-07d210e82c47,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+a9f54f10-5788-4b00-bd35-8649b0f31985,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Unit B,Electrical Panel,synthetic
+42bdf57d-15ea-4722-ae68-ed390eb7e38a,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Unit A,Pump,synthetic
+2114cf6d-7dcc-4a5b-9709-14a8edece51c,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+372ef3ac-39f4-420f-a104-c7189ec66584,Small oil spill near Compressor at Unit A. Cleaned up promptly.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit A,Compressor,synthetic
+28131a12-da0c-4ff3-a46b-328df66a1a2e,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Offshore Platform 1,Valve,synthetic
+329204cb-794d-47d8-a240-881badbb1434,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Working at Height,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+7b6ca786-b9ea-468d-a911-3a24c8db0bd2,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit A,Valve,synthetic
+636f217b-2b30-425c-9574-65f2facc10c1,Small oil spill near Electrical Panel at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Confined Space,LOW,,,,,Refinery Sector 4,Electrical Panel,synthetic
+0e5f6177-f508-4deb-b251-5fb21260877c,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Unit B,Pump,synthetic
+77cd6a5d-3bc9-4bae-9cbe-4c491b065490,Small oil spill near Electrical Panel at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Pressure,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+d0712884-ee24-4cd7-915c-5885df027a19,<div><p>Worker used incorrect gloves for manual handling task. Supervisor corrected the action.</p></div>,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit A,Valve,synthetic
+b4866bf8-dd56-4dca-afe7-682dcbe18f13,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Unit B,Electrical Panel,synthetic
+97756d13-994e-48c0-9ba9-0ab5f229ddc5,,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Unit A,Valve,synthetic
+fe6938b1-08ae-469f-857a-491cc48955e5,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit B,Heat Exchanger,synthetic
+5b5d2275-8abd-40f9-a17a-0080a6ff5f3d,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Working at Height,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+daf9525b-c4d8-41e5-8747-458d94146c79,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+93c09832-e27c-4f7e-87ad-5da488e5f0d4,Small oil spill near Pump at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit B,Pump,synthetic
+7e662602-e744-496c-b972-adc96bc47d15,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+2ef96c43-773b-4f3b-8bb2-5b85fe9af20c,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Pump,synthetic
+1a7159d3-480c-4dc5-98fc-3ae525a5e2ec,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+191de596-73b9-4f44-a67c-01af6d3301cb,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+ed783da6-078e-4f49-9dcf-6adf1c18bad5,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+027be3e9-10dd-42a2-a859-fd00e00a3900,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+42d65963-d276-4193-bd30-8264777d5a71,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+07461919-dd77-4f06-bcff-9186f20b3d57,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Manual Handling,LOW,,,,,Refinery Sector 4,Electrical Panel,synthetic
+b9d5dab6-1209-45e8-b0a1-4ccbe545369a,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Working at Height,LOW,,,,,Unit B,Electrical Panel,synthetic
+cf7b27d9-5679-4616-9843-8c7df9447b9a,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Unit B,Pump,synthetic
+7ea47443-0289-4634-bb84-8d4df9ef78bc,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit B,Pump,synthetic
+863f2246-da9d-471d-91f4-42904263b437,Small oil spill near Compressor at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Pressure,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+b54b84f5-0147-4c3a-b072-a4a85dcb1f30,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+475af595-c9fc-45ef-a887-76ddf3ccaa5e,<div><p>Trip hazard due to loose cables near Pump. Cables were immediately organized.</p></div>,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+8fa8b187-b995-4d60-a18b-c3381af1b2b6,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Unit B,Heat Exchanger,synthetic
+5378420c-8cff-4909-8190-73fe084b994c,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Confined Space,LOW,,,,,Unit A,Valve,synthetic
+f2bdf562-a3a1-4f9f-8b91-9d64fd43e262,<div><p>Worker used incorrect gloves for manual handling task. Supervisor corrected the action.</p></div>,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+14acd4fb-cc57-4d36-8f83-f0e4befb1b72,Small oil spill near Valve at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+fc97f53e-aa18-41e9-8736-9406811a54b0,Small oil spill near Compressor at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Unit A,Compressor,synthetic
+c78cb90d-3a9d-446f-9ef9-9f8dfac896fd,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Unit B,Compressor,synthetic
+8f1d33ac-d43d-486e-8ed0-aa61bc48fbcc,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Valve,synthetic
+3b0da1cb-8060-45dd-86e8-0d55b21af7a9,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Unit A,Heat Exchanger,synthetic
+ccab7c21-d469-4597-9937-a6d8d382fa78,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Working at Height,LOW,,,,,Refinery Sector 4,Valve,synthetic
+c21a54fc-14ae-46cd-baed-eb11062056e9,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Pressure,LOW,,,,,Unit A,Compressor,synthetic
+83da1e06-63fe-43b4-9702-64cc3f91c62c,Line opened with residual pressure on the Valve. High-energy release narrowly missed the operator.,Near Miss,YES,Confined Space,HIGH,,,,,Offshore Platform 1,Valve,synthetic
+6365738b-0002-4588-a9d7-ecd9a559decf,Worker entered the confined space at Offshore Platform 1 without conducting a gas test. No standby person was present.,Near Miss,YES,Energy Isolation,CRITICAL,,,,,Offshore Platform 1,Valve,synthetic
+f85ad28b-a0b8-4fcd-9f34-202b98e7751c,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+39601c72-5e58-45d7-9ed8-bc7faceddd07,Trip hazard due to loose cables near Electrical Panel. Cables were immediately organized.,Unsafe Condition,NO,Electrical,LOW,,,,,Refinery Sector 4,Electrical Panel,synthetic
+0ac1ff00-04fa-4057-99f6-42edecd476e8,Line opened with residual pressure on the Compressor. High-energy release narrowly missed the operator.,Unsafe Act,YES,Energy Isolation,HIGH,,,,,Unit B,Compressor,synthetic
+780f9e6b-946a-43fd-9a95-b1fb7c18d282,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+ec9b042b-7e63-472f-9cae-44de769cc66d,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Unit B,Pump,synthetic
+02d23b8d-863e-47a1-8db1-3cc7ddb9d6db,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Electrical,LOW,,,,,Unit A,Compressor,synthetic
+ffd4b12b-71e7-43a9-83c7-5ed1c559dc16,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+c547e26e-58e1-468d-a1e7-fd90ce830b22,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit B,Electrical Panel,synthetic
+9dc4acee-c236-419b-b5fb-3a163a349007,<div><p>Worker observed not wearing safety glasses at Unit A.</p></div>,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+8f41da08-309d-4a84-8005-bdc996401e79,Line opened with residual pressure on the Pump. High-energy release narrowly missed the operator.,Near Miss,YES,Pressure,HIGH,,,,,Unit B,Pump,synthetic
+23e0e737-fb5f-4fdf-9cdb-aa229c096260,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Unit A,Pump,synthetic
+2d5a78d9-b379-43d8-a33c-29418dbac912,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Confined Space,LOW,,,,,Refinery Sector 4,Valve,synthetic
+d4b405f3-2db2-4c61-b57e-cf0c4f12d78d,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Working at Height,LOW,,,,,Unit B,Valve,synthetic
+ed1435c7-52fa-43cc-a974-f33aa529cce1,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+6690b2b5-3770-450a-a0f8-1e3ba0b5fd79,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+cef42c9c-552f-4903-8800-f7f23329abd9,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+4def40f0-938f-4293-b116-7b8abc1517bd,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit A,Valve,synthetic
+db4d22e2-2185-431f-8e54-8365066e339c,Small oil spill near Electrical Panel at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit A,Electrical Panel,synthetic
+cd5134ed-79ca-4d1a-9952-a3873316198f,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+da2c78a8-8213-47bf-9fad-a0719faff66f,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Working at Height,LOW,,,,,Refinery Sector 4,Compressor,synthetic
+e9fa204b-96ad-44ad-8fd1-06d52701caca,"While working at Offshore Platform 1, worker was at height without fall protection. Serious risk of fatal fall.",Near Miss,YES,Pressure,CRITICAL,,,,,Offshore Platform 1,Electrical Panel,synthetic
+bf3f3705-adce-4222-b796-eb86b3b61389,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+04cb529d-e9f6-42de-bbc5-5666c3d45943,Small oil spill near Valve at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Electrical,LOW,,,,,Refinery Sector 4,Valve,synthetic
+a4308fd1-1b15-44b6-8266-49bb5b7512c3,Small oil spill near Electrical Panel at Unit B. Cleaned up promptly.,Unsafe Act,NO,Confined Space,LOW,,,,,Unit B,Electrical Panel,synthetic
+87254c5a-9f6e-4948-8337-6043ac2cfe82,"During maintenance of the Pump at Refinery Sector 4, the technician started work without isolating the equipment. The Pump was still energized.",Near Miss,YES,Pressure,CRITICAL,,,,,Refinery Sector 4,Pump,synthetic
+e5ab36a4-ca08-4d5e-ae51-5fadc598e124,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Valve,synthetic
+f381ec42-c31e-4ba8-a481-a584bb760640,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Unit B,Electrical Panel,synthetic
+5b129a8e-54af-4c54-840a-309b1912c18a,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Unit A,Compressor,synthetic
+aaade024-fef6-470a-83cc-5f6371b5ff67,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+cb6d4e6a-8bbc-4eaf-be02-d538157a00d6,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+fede56dc-3726-47a9-92f4-44bcbd14afb5,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+c1655c5a-6613-4cfb-8a09-c342d00f9012,"While working at Unit B, worker was at height without fall protection. Serious risk of fatal fall.",Near Miss,YES,Confined Space,CRITICAL,,,,,Unit B,Electrical Panel,synthetic
+c474962d-55a6-4e5f-8601-21460aa1186e,Small oil spill near Pump at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Pump,synthetic
+dd9bb053-2f8b-428a-b77c-e6bf4ee45453,Small oil spill near Pump at Unit B. Cleaned up promptly.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit B,Pump,synthetic
+c966425f-b161-41f7-83a4-53ee7925817c,Small oil spill near Heat Exchanger at Unit A. Cleaned up promptly.,Unsafe Act,NO,Confined Space,LOW,,,,,Unit A,Heat Exchanger,synthetic
+920b1fff-32a0-4674-a710-23e0593f9283,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit B,Pump,synthetic
+d744dd39-26a6-43c6-ad55-5064ccbc0214,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Offshore Platform 1,Pump,synthetic
+51b6a859-be66-4113-a66f-dfec0c6db18e,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+bd616641-a15b-4992-ae25-b9e472425cb0,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+46a9a3a0-dcaa-4fc2-a64e-162428258e8d,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Unit B,Pump,synthetic
+bdd0d027-c26b-4643-9ad2-42ca11aa9231,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+f3bcb154-de71-4976-bf54-85a10de06c20,<div><p>Small oil spill near Valve at Refinery Sector 4. Cleaned up promptly.</p></div>,Unsafe Condition,NO,Manual Handling,LOW,,,,,Refinery Sector 4,Valve,synthetic
+c9ca622c-b62f-472f-af85-82d179ff3d42,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit B,Electrical Panel,synthetic
+b07f02eb-61d6-43ad-bdce-82522ae7eb01,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit B,Heat Exchanger,synthetic
+bd38bc45-9e9b-48af-8ddf-1bcc82978d81,Small oil spill near Pump at Unit A. Cleaned up promptly.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Unit A,Pump,synthetic
+985b3580-4683-4905-be64-e4f246ea4f2c,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Working at Height,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+9b11dc5b-6ff4-4b06-97c8-0e3039503656,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+ce6d6194-a3ae-4e9d-a885-9dd439ea1e44,Small oil spill near Valve at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Manual Handling,LOW,,,,,Offshore Platform 1,Valve,synthetic
+db6e806a-9ebf-44ec-95e4-ad15c0ec9bef,Small oil spill near Pump at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Unit A,Pump,synthetic
+b1184eea-88df-4250-a9b5-a9399d1efb85,Small oil spill near Electrical Panel at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Refinery Sector 4,Electrical Panel,synthetic
+d6c815c8-fca3-48a8-84f3-1f20f5bc4815,Small oil spill near Compressor at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+beccf34e-66e2-4487-949b-5c9f88273f82,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit A,Valve,synthetic
+82823737-3635-40f6-bf15-ccc7c7e93104,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+5032e3e3-8656-470d-823b-b0124806c647,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+e30113ed-42d1-46af-9cda-d808e825fdd3,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Offshore Platform 1,Valve,synthetic
+dd93eb1e-9945-4d37-9cb1-2fb9824fbfff,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Act,NO,Working at Height,LOW,,,,,Unit B,Compressor,synthetic
+1f8e3063-96eb-4cd7-aff8-a06e416fc975,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+b963bf19-2fe7-4106-add4-de65b4464085,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+69a7c2fd-4d36-4b22-bc21-02f06d5f6165,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Refinery Sector 4,Pump,synthetic
+d85c4436-f7ea-4369-ba2e-e20e58dbf129,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Unit B,Pump,synthetic
+75fb6ad1-7af3-4b80-aaf1-4cb751c69517,Small oil spill near Valve at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+69c906ab-897e-4f17-ae61-f339eb66eb44,Small oil spill near Valve at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Working at Height,LOW,,,,,Unit A,Valve,synthetic
+4420e447-cbb7-406b-93b9-fc3554794a56,Small oil spill near Valve at Unit B. Cleaned up promptly.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Unit B,Valve,synthetic
+9036531f-8c28-4fe0-b044-0c50a7ab0718,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Unit B,Compressor,synthetic
+929dbb9a-2804-444d-8cd5-2097d234a7f0,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Confined Space,LOW,,,,,Unit A,Pump,synthetic
+8ed151e3-aefa-46f8-ad62-87a8f5f2cc0d,Small oil spill near Pump at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Unit A,Pump,synthetic
+20b651e0-9211-4be6-aa91-37b81a0e2d97,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Unit A,Compressor,synthetic
+67dedf90-8156-47c1-ad38-def860ae46de,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+260a3a50-75c3-4968-bd53-76542acc8a65,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Unit B,Compressor,synthetic
+118e8288-1d4b-4627-8b07-72404bddeda6,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+760414fe-8eea-4bd3-9c12-04b5f596db13,Small oil spill near Electrical Panel at Unit B. Cleaned up promptly.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit B,Electrical Panel,synthetic
+a600415e-4ca5-4f49-8f1c-0e8f3cb6fdfa,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Unit B,Pump,synthetic
+a52eda4d-3495-4210-b544-a1c52ef1df56,Small oil spill near Heat Exchanger at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+9fec6542-0304-4ec5-979a-4333693f980e,"During maintenance of the Compressor at Refinery Sector 4, the technician started work without isolating the equipment. The Compressor was still energized.",Unsafe Act,YES,Pressure,HIGH,,,,,Refinery Sector 4,Compressor,synthetic
+845653a0-d465-46f1-82c2-33c714357f8e,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+49baae68-efa7-47c6-ad3b-483055668f1f,Line opened with residual pressure on the Compressor. High-energy release narrowly missed the operator.,Near Miss,YES,Confined Space,HIGH,,,,,Refinery Sector 4,Compressor,synthetic
+178ad11f-ab52-4bbf-85b4-e21d540cc000,Line opened with residual pressure on the Compressor. High-energy release narrowly missed the operator.,Near Miss,YES,Confined Space,HIGH,,,,,Refinery Sector 4,Compressor,synthetic
+9580460e-1ed7-4b23-aaf1-6412378189f3,Small oil spill near Electrical Panel at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+adc05aa8-c7f2-4342-93f3-53f770ff2c66,Small oil spill near Pump at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit A,Pump,synthetic
+13213c24-c035-490e-9510-3aa5a9c71944,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Pressure,LOW,,,,,Offshore Platform 1,Pump,synthetic
+ca82b443-2e2c-4240-b387-4d3bb26215d3,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+c194c7ec-55ba-453e-af75-0f9deb5b3a0a,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+c76e6658-fffe-4572-b2d5-48b4045fc0da,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Manual Handling,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+f7791dd8-3405-45c8-a08b-f2543c6f4152,Small oil spill near Compressor at Unit B. Cleaned up promptly.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Unit B,Compressor,synthetic
+08636ad7-8fb0-4223-947f-71a996ed4bd5,Small oil spill near Valve at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Manual Handling,LOW,,,,,Offshore Platform 1,Valve,synthetic
+f22cecdc-3906-4731-961a-8826ed68d9d2,Small oil spill near Electrical Panel at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Electrical Panel,synthetic
+7c76dd19-7c29-4eb0-913a-1ee4fcd60e47,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+37455a04-e16b-4d81-afa3-8870dc35a926,<div><p>Worker observed not wearing safety glasses at Unit B.</p></div>,Unsafe Act,NO,Electrical,MEDIUM,,,,,Unit B,Compressor,synthetic
+c1f4f300-dad3-4ec0-90ba-cd90d03ab460,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+1cfc2e36-fe23-4015-a574-c4db73902819,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Electrical,LOW,,,,,Refinery Sector 4,Electrical Panel,synthetic
+449bc5e5-f068-4e9b-b9c5-72df1f46f1fa,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+3436437e-f3fb-4823-ba0b-6b257c6c5e7c,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+fef31452-b945-4d14-82bf-3923ab994de1,Worker observed not wearing safety glasses at Unit B.,Unsafe Act,NO,Working at Height,LOW,,,,,Unit B,Pump,synthetic
+fc13c405-ec7f-4acc-97db-f32d2cdc642b,,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Unit A,Valve,synthetic
+4a3f702e-f06d-486a-8f78-f2ff411ea976,Worker observed not wearing safety glasses at Unit A.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit A,Valve,synthetic
+c13e8d2a-4289-48b7-a1b3-7aba7d2a902e,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Electrical,LOW,,,,,Unit B,Valve,synthetic
+ad91027b-329c-47e5-b88c-a7a6c0effc2b,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+16b9a004-4a60-464b-971d-9a4859c02b4d,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+f02e7a98-1a0b-41f2-bd4b-53cbb2f0c2fd,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+6384a62a-c721-49e3-9804-888df037f3ea,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Working at Height,LOW,,,,,Unit A,Valve,synthetic
+f9a60df9-e0e1-4f7d-9505-5512771422c5,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,LOW,,,,,Unit A,Heat Exchanger,synthetic
+a6c24f67-a76e-4f37-a26b-054af56aac62,Small oil spill near Pump at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+58cced5e-aadd-473b-98ac-b0ce10c6abe9,<div><p>Worker observed not wearing safety glasses at Unit B.</p></div>,Unsafe Condition,NO,Pressure,LOW,,,,,Unit B,Heat Exchanger,synthetic
+bb38dd51-7096-430b-aa8f-4239e6beed47,,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Unit A,Pump,synthetic
+ed026fd9-b491-4774-a674-3d7a87478980,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+502dcc86-350d-4c51-9fe5-f18e999c9d0f,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Pressure,LOW,,,,,Unit B,Electrical Panel,synthetic
+68b8a115-1ed6-40bd-9d15-9d17a10e670c,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+7451a755-5158-4b1a-897a-2acf4d685f2f,<div><p>Small oil spill near Heat Exchanger at Refinery Sector 4. Cleaned up promptly.</p></div>,Unsafe Condition,NO,Manual Handling,LOW,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+3640fd7f-bc21-4371-915f-47beb7afd90d,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Electrical,LOW,,,,,Unit B,Electrical Panel,synthetic
+d4cc7a1e-937b-4e38-b05c-0a13e6cb3807,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+f9daad70-d59d-47eb-ac76-37c411d82b83,Small oil spill near Pump at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Pump,synthetic
+8ff8cb12-9397-4cd0-bc2e-09bee966015d,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Unit A,Heat Exchanger,synthetic
+06d7ced4-0cff-4706-addb-9f402eb4f869,Small oil spill near Compressor at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit B,Compressor,synthetic
+372ff191-9337-4cae-8ae3-978774079771,<div><p>Small oil spill near Electrical Panel at Offshore Platform 1. Cleaned up promptly.</p></div>,Unsafe Act,NO,Electrical,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+a94b1694-929b-40fc-91ca-a7500ebdf4d2,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit A,Compressor,synthetic
+894bea24-8e6b-499f-a3da-92e6e0c0e159,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+d5d21c69-2fdc-4c2b-9b2a-9000b4190102,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Pressure,LOW,,,,,Unit B,Valve,synthetic
+5d4cb9c9-8c32-43e9-80d1-ef23dd7ee84b,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+1e92e69d-39eb-4e54-97a2-7898ef14bb86,Small oil spill near Electrical Panel at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Unit B,Electrical Panel,synthetic
+7a21da56-c715-4c58-ae52-7ce272199d07,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Working at Height,LOW,,,,,Refinery Sector 4,Electrical Panel,synthetic
+7cdddb7f-f36d-4cb7-be09-bcdc4a0d0bde,Small oil spill near Heat Exchanger at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Working at Height,LOW,,,,,Unit B,Heat Exchanger,synthetic
+8789c51d-7465-439d-b2db-b0c190943087,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+2622f8d9-bb28-4085-8519-98a96794f4ff,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Unit B,Compressor,synthetic
+3adbb06d-0775-4f13-91ee-62c52c87fffd,Trip hazard due to loose cables near Valve. Cables were immediately organized.,Unsafe Condition,NO,Electrical,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+9ff99295-26dd-4c19-a876-72e1aee1ee5d,Small oil spill near Pump at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+860ffaa3-8882-4023-8f37-6e8686f78721,Trip hazard due to loose cables near Compressor. Cables were immediately organized.,Unsafe Condition,NO,Electrical,LOW,,,,,Unit B,Compressor,synthetic
+6e55f6b5-accf-4dcf-aad5-d861bc995a74,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Pressure,MEDIUM,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+72ad0518-4c8f-434c-b8fd-ec58c1bc02f1,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Offshore Platform 1,Electrical Panel,synthetic
+b9380246-951a-4afd-bbd4-8107b8cd99dd,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+1b929fac-6654-4b73-b962-f1e10d42bbe0,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Pump,synthetic
+b0550625-94da-483b-9dd6-6992959a1a07,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Electrical,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+19f54259-e96f-4dd1-b1f0-b30a854c5bd2,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+22dbbe7c-8182-4b3e-97f5-b64324f28e46,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+1558522b-87cd-4799-96ea-23db66c0d865,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Offshore Platform 1,Pump,synthetic
+391ffe03-797a-4e4f-ad73-99cd1ba857ee,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Refinery Sector 4,Pump,synthetic
+b7497083-fa48-40b4-9221-72560b1c3a6b,Small oil spill near Pump at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit A,Pump,synthetic
+590b7147-8222-4247-bd3a-e63138312d4c,Small oil spill near Pump at Unit B. Cleaned up promptly.,Unsafe Act,NO,Electrical,LOW,,,,,Unit B,Pump,synthetic
+f75fee07-0705-4aff-a0a3-165d866b3280,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Electrical,LOW,,,,,Offshore Platform 1,Pump,synthetic
+9966b9fb-71ec-44c5-909e-b2b68bbe48a9,Small oil spill near Heat Exchanger at Offshore Platform 1. Cleaned up promptly.,Unsafe Condition,NO,Electrical,LOW,,,,,Offshore Platform 1,Heat Exchanger,synthetic
+af92275a-9b6d-4fb9-8d56-85af16f1dcc9,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Slips/Trips,LOW,,,,,Unit A,Electrical Panel,synthetic
+17f5a015-0b71-4185-86ed-f4f226e70968,<div><p>Trip hazard due to loose cables near Pump. Cables were immediately organized.</p></div>,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+4e6ebd21-6211-4a51-9529-7cea89aa4b66,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+a061cfaf-f5f3-46b1-9439-70e7681345a3,Small oil spill near Valve at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit B,Valve,synthetic
+4bca4f26-2646-4659-b04a-221298f9acb9,"While working at Unit B, worker was at height without fall protection. Serious risk of fatal fall.",Near Miss,YES,Confined Space,CRITICAL,,,,,Unit B,Valve,synthetic
+62ec9cc3-c6c1-4ddf-8004-188897169a49,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Working at Height,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+713ebdbb-9355-4623-be43-da220a83d0da,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Confined Space,MEDIUM,,,,,Unit B,Heat Exchanger,synthetic
+60980181-1059-48f3-9452-4bb0daf7f571,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Unit A,Electrical Panel,synthetic
+f6681260-516b-400d-be48-3c106bd30858,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Pressure,LOW,,,,,Refinery Sector 4,Valve,synthetic
+0a024e78-3a4e-4b4e-9a00-8a0802d019b7,Trip hazard due to loose cables near Heat Exchanger. Cables were immediately organized.,Unsafe Act,NO,Manual Handling,LOW,,,,,Unit A,Heat Exchanger,synthetic
+54588c5d-5a23-4558-b6f9-22e402b95eb6,Small oil spill near Compressor at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Electrical,LOW,,,,,Unit B,Compressor,synthetic
+8897ce2c-b8f8-4214-98d4-0900b3376bc7,Small oil spill near Compressor at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Refinery Sector 4,Compressor,synthetic
+80f76f26-0e17-4dec-b869-30d46c58f86f,Small oil spill near Pump at Unit A. Cleaned up promptly.,Unsafe Act,NO,Energy Isolation,LOW,,,,,Unit A,Pump,synthetic
+482ec88b-c884-4419-80a2-fcf460ec72f4,Worker observed not wearing safety glasses at Unit B.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Unit B,Compressor,synthetic
+434217cf-ae97-4185-9333-cb4164968f6b,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Slips/Trips,LOW,,,,,Refinery Sector 4,Valve,synthetic
+218d1710-6dd7-4541-9258-7538784acdd7,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,LOW,,,,,Offshore Platform 1,Compressor,synthetic
+7bcb4d0f-6959-4294-925a-e9a9869bc7b1,Small oil spill near Heat Exchanger at Unit A. Cleaned up promptly.,Unsafe Act,NO,Confined Space,LOW,,,,,Unit A,Heat Exchanger,synthetic
+6f1cc7f5-2076-4a0a-9d84-9093eecadc0a,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Act,NO,Working at Height,LOW,,,,,Offshore Platform 1,Valve,synthetic
+d1e6c67a-b985-4ba0-9882-42d303ec3d23,Worker observed not wearing safety glasses at Offshore Platform 1.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
+6666631f-4d69-4966-9eb7-d926370171b1,Trip hazard due to loose cables near Pump. Cables were immediately organized.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Pump,synthetic
+554300f6-b255-481d-abbe-d83b63e10213,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Working at Height,MEDIUM,,,,,Refinery Sector 4,Heat Exchanger,synthetic
+8ed88080-7d8e-4466-9a22-fc0fd38b3052,Small oil spill near Electrical Panel at Refinery Sector 4. Cleaned up promptly.,Unsafe Act,NO,Working at Height,LOW,,,,,Refinery Sector 4,Electrical Panel,synthetic
+8d51c266-c2ba-4f41-856c-d420d40693db,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Electrical,LOW,,,,,Offshore Platform 1,Electrical Panel,synthetic
+5ee1e9cd-6c67-4b84-bb10-f8e879c98420,Small oil spill near Compressor at Unit B. Cleaned up promptly.,Unsafe Condition,NO,Manual Handling,MEDIUM,,,,,Unit B,Compressor,synthetic
+8911f42e-227b-4cd9-b8db-2bdbe40f61bb,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Slips/Trips,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+6ab2a744-34d1-4007-91fe-0a61b4b395ae,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Manual Handling,LOW,,,,,Unit A,Heat Exchanger,synthetic
+6989b3b5-b3ea-4eea-ad1d-74f3f6695ef6,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Act,NO,Confined Space,MEDIUM,,,,,Refinery Sector 4,Valve,synthetic
+8ae722f4-0630-41e1-b0d7-98b67bc14a75,Small oil spill near Electrical Panel at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+8e8a2f55-fc32-4a12-8786-b969bc47c922,Small oil spill near Electrical Panel at Unit A. Cleaned up promptly.,Unsafe Condition,NO,Pressure,MEDIUM,,,,,Unit A,Electrical Panel,synthetic
+fcfdfbb2-32e4-4caa-898b-249a8e228787,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Energy Isolation,LOW,,,,,Unit B,Heat Exchanger,synthetic
+fe3a4e75-ad45-44c9-bc58-ff48e85cc527,Worker observed not wearing safety glasses at Refinery Sector 4.,Unsafe Condition,NO,Confined Space,LOW,,,,,Refinery Sector 4,Pump,synthetic
+46143909-4580-4a0a-8b82-263b4aa5935c,Small oil spill near Electrical Panel at Refinery Sector 4. Cleaned up promptly.,Unsafe Condition,NO,Energy Isolation,MEDIUM,,,,,Refinery Sector 4,Electrical Panel,synthetic
+a4e7e96a-04c1-4a8c-b6dc-32f355fced5e,Small oil spill near Valve at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Electrical,MEDIUM,,,,,Offshore Platform 1,Valve,synthetic
+c39ea7c1-205d-4b63-aa5f-a25c6e05d3e9,Worker observed not wearing safety glasses at Unit A.,Unsafe Condition,NO,Confined Space,LOW,,,,,Unit A,Heat Exchanger,synthetic
+7b4df2f0-4fdf-4fc5-bb77-3fd5a3ff0386,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Act,NO,Confined Space,LOW,,,,,Offshore Platform 1,Valve,synthetic
+ffeb5715-0584-480b-89da-6d652b3a05aa,Worker used incorrect gloves for manual handling task. Supervisor corrected the action.,Unsafe Condition,NO,Pressure,LOW,,,,,Refinery Sector 4,Electrical Panel,synthetic
+f4e7f22a-b18a-40b9-8b8c-84a0d698189c,Small oil spill near Compressor at Offshore Platform 1. Cleaned up promptly.,Unsafe Act,NO,Slips/Trips,MEDIUM,,,,,Offshore Platform 1,Compressor,synthetic
