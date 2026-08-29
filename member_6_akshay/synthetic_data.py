@@ -4,10 +4,9 @@ import pandas as pd
 import sys
 import os
 
-sys.path.append(os.path.dirname(os.path.dirname(__file__)))
-from schema.extraction_schema import SafetyReportSchema as SafetyReport
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
+from src.data.contracts import StandardizedReportObject
 
-# Predefined templates to generate synthetic text
 SIF_TEMPLATES = [
     "During maintenance of the {equipment} at {location}, the technician started work without isolating the equipment. The {equipment} was still energized.",
     "Worker entered the confined space at {location} without conducting a gas test. No standby person was present.",
@@ -30,7 +29,7 @@ def generate_synthetic_data(num_records: int = 1000) -> pd.DataFrame:
     records = []
     
     for _ in range(num_records):
-        is_sif = random.random() < 0.05 # 5% SIF class imbalance
+        is_sif = random.random() < 0.05 
         
         hazard = random.choice(HAZARDS)
         location = random.choice(LOCATIONS)
@@ -48,46 +47,56 @@ def generate_synthetic_data(num_records: int = 1000) -> pd.DataFrame:
             severity = random.choice(["LOW", "MEDIUM"])
             text = random.choice(NON_SIF_TEMPLATES).format(equipment=equipment, location=location)
         
-        # Add some noise (empty texts, HTML tags, exact duplicates to test deduplication)
         noise_roll = random.random()
-        
-        # Increase text entropy to prevent over-deduplication
         worker_id = random.randint(1000, 9999)
-        day = random.randint(1, 28)
-        text = f"[Oct {day}] Report by W-{worker_id}: {text}"
+        
+        # FIX: Do not inject '[Oct X] Report by W-XXXX:' as it creates a domain mismatch 
+        # where the model learns metadata artifacts instead of genuine safety language.
+        raw_text = text
+        cleaned_text = text 
 
         if noise_roll < 0.02:
-            text = "" # empty
+            raw_text = "" 
+            cleaned_text = ""
         elif noise_roll < 0.05:
-            text = f"<div><p>{text}</p></div>" # HTML noise
+            raw_text = f"<div><p>{raw_text}</p></div>"
             
-        report = SafetyReport(
+        report = StandardizedReportObject(
             report_id=str(uuid.uuid4()),
-            report_text=text,
             report_type=report_type,
-            sif_label=sif_label,
-            hazard_category=hazard,
-            severity=severity,
             location=location,
             equipment=equipment,
-            immediate_action=random.choice(["stopped work", "reported to supervisor", None]),
-            intervention=random.choice(["colleague intervened", "supervisor intervened", None]),
-            corrective_action=random.choice(["replaced equipment", "cleaned up", None]),
-            preventive_action=random.choice(["updated procedures", "retrained staff", None]),
-            work_stopped=random.choice([True, False, None])
+            raw_text=raw_text,
+            cleaned_text=cleaned_text,
+            available_labels={
+                "sif_label": sif_label,
+                "hazard_category": hazard,
+                "severity": severity,
+                "immediate_action": random.choice(["stopped work", "reported to supervisor", None]),
+                "intervention": random.choice(["colleague intervened", "supervisor intervened", None]),
+                "corrective_action": random.choice(["replaced equipment", "cleaned up", None]),
+                "preventive_action": random.choice(["updated procedures", "retrained staff", None]),
+                "work_stopped": random.choice([True, False, None])
+            }
         )
         records.append(report)
         
-        # Inject exact duplicates to test data leakage prevention
         if random.random() < 0.03:
             duplicate = report.model_copy(update={'report_id': str(uuid.uuid4())})
             records.append(duplicate)
             
-    # Convert to DataFrame
-    df = pd.DataFrame([r.model_dump() for r in records])
+    # Flatten the dict for pandas
+    flattened = []
+    for r in records:
+        d = r.model_dump()
+        labels = d.pop('available_labels', {})
+        d.update(labels)
+        flattened.append(d)
+        
+    df = pd.DataFrame(flattened)
     return df
 
 if __name__ == "__main__":
     df = generate_synthetic_data(1000)
-    df.to_csv("synthetic_reports.csv", index=False)
-    print(f"Generated {len(df)} synthetic reports and saved to synthetic_reports.csv")
+    df.to_csv("data/synthetic_reports.csv", index=False)
+    print(f"Generated {len(df)} synthetic reports and saved to data/synthetic_reports.csv")
