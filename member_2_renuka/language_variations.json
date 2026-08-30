@@ -3,252 +3,67 @@
     {
       "concept": "no_gas_testing",
       "description": "Failure to perform required atmospheric testing.",
-      "variations": [
-        "gas test not conducted",
-        "atmosphere not checked",
-        "gas monitoring not performed",
-        "no sniffer used",
-        "did not test air",
-        "entry without testing",
-        "failed to check for gas"
-      ]
+      "variations": ["gas test not conducted", "atmosphere not checked", "gas monitoring not performed", "no sniffer used", "did not test air", "entry without testing", "failed to check for gas"]
     },
     {
       "concept": "no_isolation",
       "description": "Failure to isolate energy sources before work.",
-      "variations": [
-        "equipment not isolated",
-        "isolation not done",
-        "LOTO not followed",
-        "equipment remained energized",
-        "did not lock out",
-        "failed to isolate",
-        "worked on live equipment"
-      ]
+      "variations": ["equipment not isolated", "isolation not done", "LOTO not followed", "equipment remained energized", "did not lock out", "failed to isolate", "worked on live equipment", "valve passing", "LOTO removed", "energized unexpectedly"]
     },
     {
       "concept": "fall_protection_failure",
       "description": "Working at height without proper fall arrest systems.",
-      "variations": [
-        "no harness",
-        "harness not used",
-        "worker without fall arrest",
-        "unprotected edge",
-        "not tied off",
-        "no lanyard attached",
-        "missing guardrails",
-        "harness failed",
-        "harness failure",
-        "defective harness",
-        "fall from height",
-        "fell from",
-        "scaffold"
-      ]
+      "variations": ["no harness", "harness not used", "worker without fall arrest", "unprotected edge", "not tied off", "no lanyard attached", "missing guardrails", "harness failed", "harness failure", "defective harness", "fall from height", "fell from", "scaffold"]
     },
     {
       "concept": "pressure_exposure",
       "description": "Opening systems containing trapped or residual pressure.",
-      "variations": [
-        "line under pressure",
-        "residual pressure",
-        "pressure not released",
-        "trapped pressure",
-        "failed to depressurize",
-        "opened pressurized line",
-        "pressure blew out"
-      ]
+      "variations": ["line under pressure", "residual pressure", "pressure not released", "trapped pressure", "failed to depressurize", "opened pressurized line", "pressure blew out", "pressure still in line", "passing relief valve", "overpressured tank"]
     },
     {
-      "concept": "confined_space_violation",
-      "description": "Entering a confined space without adhering to safety protocols.",
-      "variations": [
-        "entered vessel without permit",
-        "entered confined space without testing",
-        "unauthorized entry",
-        "went inside tank",
-        "no confined space permit",
-        "entered without hole watch"
-      ]
+      "concept": "permit_violation",
+      "description": "Working without or violating permit to work.",
+      "variations": ["working without permit", "expired PTW", "permit not signed", "hot work without clearance", "no hot work permit", "unplanned task", "ad-hoc work", "not in JSA", "unexpected condition"]
     },
     {
-      "concept": "no_standby_person",
-      "description": "Failure to have a dedicated person monitoring a hazardous activity.",
-      "variations": [
-        "no standby",
-        "hole watch absent",
-        "working alone",
-        "no safety watch",
-        "unattended entry",
-        "no one watching outside"
-      ]
+      "concept": "line_of_fire_exposure",
+      "description": "Being in the path of a hazard.",
+      "variations": ["under load", "walking under suspended load", "standing under crane lift", "crush zone", "narrow clearance", "blind spot", "struck by", "standing under load"]
     },
     {
-      "concept": "no_rescue_arrangement",
-      "description": "Lack of a plan or equipment to rescue workers in an emergency.",
-      "variations": [
-        "no rescue plan",
-        "no tripod",
-        "no retrieval line",
-        "no emergency arrangements",
-        "no way to pull them out",
-        "rescue team not notified"
-      ]
+      "concept": "lifting_gear_failure",
+      "description": "Failures or risks during rigging and lifting.",
+      "variations": ["unsecured tools", "dropped from height", "tool fell", "falling object hazard", "frayed sling", "load swayed", "SWL exceeded", "dropped object risk"]
     },
     {
-      "concept": "hot_work_without_permit",
-      "description": "Performing spark-producing work without authorization.",
-      "variations": [
-        "welding without permit",
-        "unauthorized hot work",
-        "grinding without permit",
-        "no hot work permit",
-        "cutting without authorization",
-        "sparking work without permission"
-      ]
+      "concept": "well_control_issue",
+      "description": "Loss of well integrity or uncontrolled pressure.",
+      "variations": ["kick", "mud weight drop", "BOP failed test", "gas cut mud", "uncontrolled flow", "sustained casing pressure", "SCP", "annulus leak", "packer failed"]
     },
     {
-      "concept": "arc_flash_exposure",
-      "description": "Working near energized electrical equipment without protection.",
-      "variations": [
-        "no arc flash suit",
-        "crossed flash boundary",
-        "working on live panel",
-        "exposed live wires",
-        "no flash protection",
-        "opened energized cabinet"
-      ]
+      "concept": "hydrocarbon_leak",
+      "description": "Loss of containment of dangerous fluids/gases.",
+      "variations": ["H2S alarm", "smelled sulfur", "H2S detected", "gas smell", "small leak", "detector bypassed", "spill on hot surface", "pinhole leak", "threaded connection leak", "broken instrument tubing"]
     },
     {
-      "concept": "suspended_load_exposure",
-      "description": "Being positioned underneath or near a lifted heavy object.",
-      "variations": [
-        "under load",
-        "walking under suspended load",
-        "standing under crane lift",
-        "underneath hoisted equipment",
-        "entered lift zone",
-        "under lifted pipe"
-      ]
+      "concept": "asset_degradation",
+      "description": "Infrastructure deterioration causing failure risk.",
+      "variations": ["heavy pitting", "wall thinning", "corrosion under insulation", "vibrating pipe", "failed thickness test", "corroded flange"]
     },
     {
-      "concept": "dropped_object_risk",
-      "description": "Objects at height that are not secured and could fall.",
-      "variations": [
-        "unsecured tools",
-        "dropped from height",
-        "tool fell",
-        "loose items on scaffold",
-        "no tool lanyard",
-        "falling object hazard"
-      ]
+      "concept": "safety_system_failure",
+      "description": "Failure or bypassing of emergency systems.",
+      "variations": ["ESD didn't trigger", "firewater pump failed to start", "extinguisher empty", "alarm ignored", "bypassed interlock", "defeated safety switch", "overrode safety system", "bypassed logic"]
     },
     {
-      "concept": "h2s_exposure",
-      "description": "Exposure to or risk of exposure to Hydrogen Sulfide gas.",
-      "variations": [
-        "H2S alarm",
-        "smelled sulfur",
-        "rotten egg smell",
-        "H2S detected",
-        "sour gas leak",
-        "H2S monitor went off"
-      ]
+      "concept": "management_of_change_failure",
+      "description": "Unauthorized modifications.",
+      "variations": ["temporary fix", "jumper installed", "unauthorized modification", "makeshift tool", "altered equipment"]
     },
     {
-      "concept": "procedure_bypassed",
-      "description": "Intentionally ignoring or bypassing a safety procedure or interlock.",
-      "variations": [
-        "bypassed interlock",
-        "defeated safety switch",
-        "ignored procedure",
-        "skipped steps",
-        "jumped out the switch",
-        "overrode safety system"
-      ]
-    },
-    {
-      "concept": "equipment_not_tagged",
-      "description": "Failing to place warning tags on defective or isolated equipment.",
-      "variations": [
-        "no tag",
-        "not tagged out",
-        "missing warning tag",
-        "defective equipment not tagged",
-        "no isolation tag",
-        "tag fell off"
-      ]
-    },
-    {
-      "concept": "vehicle_pedestrian_conflict",
-      "description": "Vehicles moving dangerously close to workers on foot.",
-      "variations": [
-        "nearly hit by truck",
-        "pedestrian in path",
-        "reversing without spotter",
-        "blind spot near worker",
-        "forklift drove too close",
-        "no segregation"
-      ]
-    },
-    {
-      "concept": "residual_energy_not_dissipated",
-      "description": "Failing to relieve stored energy (springs, pressure, capacitance).",
-      "variations": [
-        "did not bleed pressure",
-        "stored energy released",
-        "spring tension not relieved",
-        "capacitors not discharged",
-        "failed to drain line",
-        "residual energy present"
-      ]
-    },
-    {
-      "concept": "inadequate_ppe_for_hazard",
-      "description": "Wearing the wrong type of PPE for the specific hazard.",
-      "variations": [
-        "wrong gloves",
-        "no chemical suit",
-        "improper respirator",
-        "dust mask instead of SCBA",
-        "not wearing FR clothing",
-        "insufficient PPE"
-      ]
-    },
-    {
-      "concept": "structural_failure_risk",
-      "description": "Risk of collapse of a structure (scaffold, trench, roof).",
-      "variations": [
-        "unshored trench",
-        "scaffold leaning",
-        "fragile roof",
-        "unstable ground",
-        "trench wall collapsed",
-        "missing scaffold bracing"
-      ]
-    },
-    {
-      "concept": "poor_housekeeping",
-      "description": "Clutter or spills creating trip/fire hazards.",
-      "variations": [
-        "spill on floor",
-        "cluttered walkway",
-        "oil on deck",
-        "cables on ground",
-        "trip hazard",
-        "messy area"
-      ]
-    },
-    {
-      "concept": "unauthorized_modification",
-      "description": "Modifying equipment without engineering approval.",
-      "variations": [
-        "makeshift tool",
-        "unauthorized repair",
-        "jerry-rigged",
-        "modified guard",
-        "homemade lifting device",
-        "altered equipment"
-      ]
+      "concept": "simops_conflict",
+      "description": "Conflict between simultaneous operations.",
+      "variations": ["welding near venting", "crane over live plant", "poor handover", "contractors overlapped"]
     }
   ]
 }
