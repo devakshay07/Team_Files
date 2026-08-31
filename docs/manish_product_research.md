@@ -88,3 +88,15 @@ A probability score (e.g., "SIF: 94%") is useless to an EHS officer. The system 
 3. **What if the AI misses a SIF (False Negative)?** -> This is the biggest risk. The model must prioritize Recall over Precision.
 4. **How do we handle multiple hazards in one report?** -> AI should extract all hazards and set priority based on the highest-severity hazard.
 5. **Data Privacy:** Can reports contain PII (names)? -> The data pipeline must strip names before showing in the dashboard.
+
+## Section 13 — Genuine Industry Source Links
+To substantiate the workflow pain points and the necessity of AI/NLP for SIF precursor detection, the following genuine industry sources were consulted:
+
+1. **Campbell Institute (National Safety Council):** Research highlights that relying purely on lagging indicators (like TRIR) fails to prevent fatalities, driving the need for SIF precursor identification. 
+   - *Source:* [NSC Campbell Institute Research on SIFs](https://www.nsc.org/workplace/safety-topics/serious-injury-and-fatality-prevention)
+2. **Benchmark Gensuite (EHS Software Leader):** Validates the "volume overwhelm" problem where thousands of near-miss and observation reports bury hidden risks, and documents how NLP extracts leading indicators from unstructured text.
+   - *Source:* [Leveraging AI for EHS Data Analytics - Benchmark Gensuite](https://benchmarkgensuite.com/blog/leveraging-ai-for-ehs-data-analytics/)
+3. **EHS Daily Advisor / WorkplacePub:** Discusses how AI and NLP help shift the focus from "counting incidents" to understanding how harm forms by classifying incidents based on their potential severity (pSIF) rather than actual outcome.
+   - *Source:* [The Role of AI in SIF Prevention](https://www.workplacepub.com/safety-and-security/safety/how-ai-can-help-prevent-serious-injuries-and-fatalities/)
+4. **Intenseye / EHS Insight:** Explain how real-time insights and predictive analytics are necessary to surface SIF exposures that human reviewers miss during manual chronological sorting.
+   - *Source:* [Using Computer Vision & AI for EHS - Intenseye](https://www.intenseye.com/blog/ai-in-ehs)
